@@ -1,3 +1,3 @@
 ## Hello
 
-<img src='/img/clopen.jpg'>
+<img src='/img/clopenmic.jpg'>
