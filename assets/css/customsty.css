@@ -14,10 +14,10 @@ a:hover .fa {
 #titlebar
 {
   display:grid
+  align-items: center;
 }
 
 img#mic {
-  height: 350px;
   grid-column: 1 / span 1;
 }
 
@@ -25,7 +25,12 @@ h1#project_title {
   grid-column: 2 / span 1;
 }
 
-h1#project_title,
+h1#project_title
+{
+  text-shadow: none;
+  color: black
+
+}
 img#mic {
   border:none;
   box-shadow: none;
@@ -210,11 +215,19 @@ h2 {
   display:inline-block
 }
 
+img#mic {
+  height: 350px;
+}
+
 } /* end min-width:730px */
 
 @media (max-width:730px){
 .person .imgwrap {
   text-align:center
+}
+
+img#mic {
+  height: 100px;
 }
 
 .person .imgwrap, .person .innertext {
