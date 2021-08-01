@@ -152,12 +152,16 @@ img#mic {
   background-image: url("/assets/img/clopenmic_colour.png") !important;
   background-size: contain !important;
   background-repeat: no-repeat !important;
+  background-position-x: left !important;
+  background-position-y: center !important;
 }
 
 #footer_wrap {
   background-image: url("/assets/img/clopenmic.png") !important;
-  background-size: contain !important;
+  background-size: 30px !important;
   background-repeat: no-repeat !important;
+  background-position-x: center !important;
+  background-position-y: center !important;
 }
 
 #project_tagline {margin-top:0px}
