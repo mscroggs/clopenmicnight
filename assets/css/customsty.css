@@ -22,6 +22,7 @@ h1#project_title
   font-size: xxx-large;
   text-shadow: #46dff4 0px 0px 10px;
   font-family: 'Luckiest Guy', sans-serif;
+  letter-spacing: 0.12em;
 }
 img#mic {
   border:none;
