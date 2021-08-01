@@ -14,8 +14,11 @@ a:hover .fa {
 h1#project_title
 {
   text-shadow: none;
-  color: black
-
+  color: black;
+  text-align: center;
+  padding: 36px;
+  font-size: xxx-large;
+  text-shadow: #46dff4 0px 0px 10px;
 }
 img#mic {
   border:none;
