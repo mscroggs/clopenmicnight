@@ -269,3 +269,7 @@ li.bigsection
   font-weight:bold
 }
 
+.footnote {
+  font-size: small;
+  margin-top:10px
+}
