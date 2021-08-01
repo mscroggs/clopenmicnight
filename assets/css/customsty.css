@@ -11,13 +11,12 @@ a:hover .fa {
   color: #635622
 }
 
-#project-title img {
+h1#project-title img {
     height: 400px
 }
 
-#project-title,
-#project-title img,
-h1 img {
+h1#project-title,
+h1#project-title img {
   border:none;
   box-shadow: none;
   -webkit-box-shadow: none;
