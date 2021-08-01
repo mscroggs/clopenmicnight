@@ -21,14 +21,12 @@ Talking Maths in Public.
 The show content will be aimed at an adult audience but the level of maths content should be 
 accessible to anyone aged 14+.
 
-<div class='footnote>
-<a name='footnote1'>*</a> Clopen is an incredibly niche mathematical term for something that is both open and closed 
-at the same time. If you’d like more information, find a friendly mathematician and ask them 
+<div class='footnote' id='footnote1'>* Clopen is an incredibly niche mathematical term for something that is both open and closed 
+at the same time. If you'd like more information, find a friendly mathematician and ask them 
 to tell you about it.
 </div>
 
-<div class='footnote>
-<a name='footnote2'>**</a> Random is a fairly well-known mathematical term which means something is chosen as if by 
+<div class='footnote' id='footnote2'>** Random is a fairly well-known mathematical term which means something is chosen as if by 
 chance from some specified distribution such that examination of a large set of such items 
 reproduces the underlying distribution.
 </div>
