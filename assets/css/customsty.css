@@ -17,8 +17,12 @@ a:hover .fa {
 }
 
 img#mic {
-    height: 400px
-    float:left
+  height: 350px;
+  grid-column: 1 / span 1;
+}
+
+h1#project_title {
+  grid-column: 2 / span 1;
 }
 
 h1#project_title,
