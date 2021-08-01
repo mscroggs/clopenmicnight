@@ -162,6 +162,7 @@ img#mic {
   background-repeat: no-repeat !important;
   background-position-x: center !important;
   background-position-y: center !important;
+  min-height: 70px;
 }
 
 #project_tagline {margin-top:0px}
