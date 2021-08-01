@@ -23,6 +23,8 @@ creators of the [24 Hour Maths Magic Show](https://24hourmaths.com), in partners
 The show content will be aimed at an adult audience but the level of maths content should be 
 accessible to anyone aged 14+.
 
+<br />
+
 <div class='footnote' id='footnote1'>* Clopen is an incredibly niche mathematical term for something that is both open and closed 
 at the same time. If you'd like more information, find a friendly mathematician and ask them 
 to tell you about it.
