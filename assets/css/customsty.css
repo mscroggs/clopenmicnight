@@ -7,7 +7,7 @@ purple: #635622
 light blue: #46DFF4
 */
 
-@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
 
 a:hover .fa {
   color: #1C3D9B
@@ -21,8 +21,7 @@ h1#project_title
   padding: 36px;
   font-size: xxx-large;
   text-shadow: #46dff4 0px 0px 10px;
-  font-family: 'Luckiest Guy', sans-serif;
-  letter-spacing: 0.12em;
+  font-family: 'Fredoka One', sans-serif;
 }
 img#mic {
   border:none;
