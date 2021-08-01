@@ -1,3 +1,5 @@
 # Site navigation links
 - title: Home
   page: index
+- title: Events
+  page: events

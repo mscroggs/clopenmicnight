@@ -13,8 +13,8 @@ a:hover .fa {
 
 #titlebar
 {
-  display:grid
-  align-items: center;
+  display:grid;
+  align-items: end;
 }
 
 img#mic {
