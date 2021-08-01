@@ -154,6 +154,12 @@ img#mic {
   background-repeat: no-repeat !important;
 }
 
+#footer_wrap {
+  background-image: url("/assets/img/clopenmic.png") !important;
+  background-size: contain !important;
+  background-repeat: no-repeat !important;
+}
+
 #project_tagline {margin-top:0px}
 
 body {
