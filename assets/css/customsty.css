@@ -3,6 +3,7 @@ COLOURS
 lgreen: #4Af757 (not used)
 green: #059F6E
 blue: #47D8FE
+less saturated blue: #A3EBFE
 purple: #8527C7
 ref: #A63029
 green: #059F6E
@@ -26,7 +27,7 @@ h1#project_title a:hover
   text-align: center;
   padding: 36px;
   font-size: xxx-large;
-  text-shadow: #47D8FE 0px 0px 10px;
+  text-shadow: #A3EBFE 0px 0px 10px;
   font-family: 'Fredoka One', sans-serif;
 }
 img#mic {
@@ -146,7 +147,7 @@ img#mic {
 }
 
 #header_wrap, #footer_wrap {
-  background: #47D8FE !important;
+  background: #A3EBFE !important;
 }
 #header_wrap {
   background-image: url("/assets/img/clopenmic_colour.png") !important;
@@ -169,7 +170,7 @@ img#mic {
 
 body {
   font-family: sans-serif;
-  background-color: #47D8FE;
+  background-color: #A3EBFE;
   color: #000000
 }
 
