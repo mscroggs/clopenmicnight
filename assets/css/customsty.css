@@ -319,3 +319,7 @@ li.bigsection
   font-size: small;
   margin-top:10px
 }
+
+.footnote:target {
+  font-weight: bold
+}
