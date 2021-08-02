@@ -1,12 +1,12 @@
 /*
 COLOURS
-lgreen: #4Af757 (not used)
-green: #059F6E
-blue: #47D8FE
-less saturated blue: #A3EBFE
-purple: #8527C7
-ref: #A63029
-green: #059F6E
+        standard    less saturated
+green   #059F6E     #529F87
+blue    #47D8FE     #A3EBFE
+purple  #8527C7     #A677C7
+red     #A63029     #A66B68
+grey    #999999
+lgreen  #4Af757 (not used)
 */
 
 @import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');

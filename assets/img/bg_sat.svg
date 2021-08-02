@@ -1,0 +1,28 @@
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="400" height="100" fill="#8527C7" />
+  <rect x="0" y="100" width="400" height="100" fill="#47D8FE" />
+  <rect x="0" y="200" width="400" height="100" fill="#059F6E" />
+  <rect x="0" y="300" width="400" height="100" fill="#059F6E" />
+
+  <circle cx="0" cy="50" r="50" fill="#999999" />
+  <rect x="100" y="0" width="100" height="100" fill="#059F6E" />
+  <circle cx="200" cy="50" r="50" fill="#059F6E" />
+  <rect x="300" y="0" width="100" height="100" fill="#999999" />
+
+  <rect x="0" y="100" width="100" height="100" fill="#059F6E" />
+  <circle cx="200" cy="150" r="50" fill="#999999" />
+  <rect x="200" y="100" width="100" height="100" fill="#999999" />
+  <circle cx="400" cy="150" r="50" fill="#059F6E" />
+
+  <rect x="100" y="200" width="100" height="100" fill="#999999" />
+  <rect x="300" y="200" width="100" height="100" fill="#999999" />
+  <circle cx="300" cy="250" r="50" fill="#999999" />
+  <rect x="0" y="200" width="100" height="100" fill="#8527C7" />
+  <circle cx="100" cy="250" r="50" fill="#8527C7" />
+
+  <rect x="100" y="300" width="100" height="100" fill="#47D8FE" />
+  <rect x="300" y="300" width="100" height="100" fill="#47D8FE" />
+  <circle cx="100" cy="350" r="50" fill="#47D8FE" />
+  <circle cx="300" cy="350" r="50" fill="#8527C7" />
+  <rect x="200" y="300" width="100" height="100" fill="#8527C7" />
+</svg>
