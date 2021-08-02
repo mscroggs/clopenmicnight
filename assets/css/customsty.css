@@ -29,6 +29,7 @@ h1#project_title a:hover
   font-size: 222%;
   text-shadow: #A3EBFE 0px 0px 10px;
   font-family: 'Fredoka One', sans-serif;
+  text-decoration:none
 }
 img#mic {
   border:none;
@@ -150,7 +151,7 @@ img#mic {
   background: #A3EBFE !important;
 }
 #header_wrap {
-  background-image: url("/assets/img/clopenmic.png") !important;
+  background-image: url("/assets/img/clopenmic_padded.png") !important;
   background-size: contain !important;
   background-repeat: no-repeat !important;
   background-position-x: left !important;
@@ -163,7 +164,7 @@ img#mic {
   background-repeat: no-repeat !important;
   background-position-x: center !important;
   background-position-y: center !important;
-  min-height: 70px;
+  min-height: 100px;
 }
 
 #project_tagline {margin-top:0px}
