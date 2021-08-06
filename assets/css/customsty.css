@@ -47,6 +47,7 @@ img#mic {
 }
 
 .nav li {
+  float:left;
   font-variant:small-caps;
   font-weight:bold;
   font-size:20px;
