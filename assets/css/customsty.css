@@ -47,7 +47,6 @@ img#mic {
 }
 
 .nav li {
-  float: left;
   font-variant:small-caps;
   font-weight:bold;
   font-size:20px;
@@ -148,14 +147,14 @@ img#mic {
 }
 
 #header_wrap, #footer_wrap {
-  background: #A3EBFE !important;
+  background: transparent !important;
 }
 #header_wrap {
   background-image: url("/assets/img/clopenmic_padded.png") !important;
-  background-size: contain !important;
+  background-size: 275px !important;
   background-repeat: no-repeat !important;
   background-position-x: left !important;
-  background-position-y: center !important;
+  background-position-y: bottom !important;
 }
 
 #footer_wrap {
@@ -259,6 +258,14 @@ h2 {
   display:inline-block
 }
 
+h1#project_title {
+  margin-bottom:0px
+}
+
+.nav li:nth-of-type(1) a {
+    margin-left: 0px;
+}
+
 } /* end min-width:730px */
 
 @media (max-width:730px){
@@ -270,6 +277,13 @@ h2 {
   display:block
 }
 
+h1#project_title {
+  margin-bottom:130px
+}
+
+.nav li:nth-of-type(1) a {
+    margin-left: 190px;
+}
 
 } /* end max-width:730px */
 
