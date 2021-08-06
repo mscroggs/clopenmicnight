@@ -280,11 +280,14 @@ h2 {
   display:block
 }
 
+} /* end max-width:730px */
+
+@media (max-width:1120px){
 h1#project_title {
   padding-bottom:240px
 }
 
-} /* end max-width:730px */
+} /* end max-width:1120px */
 
 .person .imgwrap img {
   width:150px;
