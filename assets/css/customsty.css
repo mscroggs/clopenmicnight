@@ -331,5 +331,6 @@ li.bigsection
 }
 
 .footnote:target {
-  font-weight: bold
+  font-weight: bold;
+  color: #8527C7
 }
