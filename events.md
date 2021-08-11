@@ -5,11 +5,12 @@ title: "Events"
 The first Clopen Mic Night will take place on Thursday 26th August at 8-9pm (BST).
 You can view the show live on YouTube at [youtu.be/HHTf2SCR8jE](https://youtu.be/HHTf2SCR8jE).
 
-Sign up below to receive an email reminder shortly before the event.
-<div class="sender-form-field" data-sender-form-id="krlwktysaq7jqd214pt" style="text-align:center"></div>
+The show is free to watch, but we support our performers and pay our behind-the-scenes team 
+for their work, so if you'd like to make a contribution - for example, as much as you'd pay 
+for a ticket to a show - you can do so at any time by visiting 
+[paypal.me/tmipuk](https://paypal.me/tmipuk).
 
-Clopen mic night 1 will feature the following people.
-
+## Provisional line-up
 {% include _person.html
     img="/assets/img/people/katie-steckles.jpg"
     name="Katie Steckles"
@@ -42,3 +43,6 @@ Clopen mic night 1 will feature the following people.
     website="https://kyledevans.com"
     twitter="kyledevans"
 %}
+
+Sign up below to receive an email reminder shortly before the event.
+<div class="sender-form-field" data-sender-form-id="krlwktysaq7jqd214pt" style="text-align:center"></div>
