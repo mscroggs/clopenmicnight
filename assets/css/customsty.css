@@ -174,7 +174,7 @@ img#mic {
 body {
   font-family: sans-serif;
   color: #000000;
-  background: url("assets/img/bg_unsat.png");
+  background: url("/assets/img/bg_unsat.png");
 }
 
 #main_content_wrap {
