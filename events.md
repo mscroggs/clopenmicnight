@@ -31,7 +31,7 @@ for a ticket to a show - you can do so at any time by visiting
 {% include _person.html
     img="/assets/img/people/lorraine-underwood.jpg"
     name="Lorraine Underwood"
-    about="Lorraine Underwood is a maker, author and computer scientist originally from Ireland and based in North Yorkshire, who's a lecturer at Lancaster University and loves to run making workshops for children, write educational content for teachers and blog about making. Her book Save the World With Code includes fun making projects for Raspberry Pi, micro:bit, and Circuit Playground Express."
+    about="Lorraine Underwood is a maker, author and computer scientist originally from Ireland and based in North Yorkshire, who teaches at Lancaster University and loves to run making workshops for children, write educational content for teachers and blog about making. Her book Save the World With Code includes fun making projects for Raspberry Pi, micro:bit, and Circuit Playground Express."
     website="https://lorraine.mcunderwood.org"
     twitter="LMcUnderwood"
 %}
