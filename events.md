@@ -26,6 +26,7 @@ for a ticket to a show - you can do so at any time by visiting
     website="https://hanaayoob.co.uk"
     twitter="hanaayoob"
     etsy="CuriousOctoDesigns"
+    instagram="hana.ayoob"
 %}
 
 {% include _person.html
