@@ -8,6 +8,7 @@ You can view the show live on YouTube at [youtu.be/HHTf2SCR8jE](https://youtu.be
 The show is free to watch, but we support our performers and pay our behind-the-scenes team 
 for their work, so if you'd like to make a contribution - for example, as much as you'd pay 
 for a ticket to a show - you can do so at any time by visiting 
+[ko-fi.com/clopenmicnight](https://ko-fi.com/clopenmicnight) or
 [paypal.me/tmipuk](https://paypal.me/tmipuk).
 
 ## Provisional line-up
