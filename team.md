@@ -6,7 +6,7 @@ title: The Team
     img="assets/img/people/sam-durbin.jpg"
     name="Sam Durbin"
     about="Sam is STEM communicator & mathematican based at the Royal Institution."
-    website="http://www.rigb.org/about/organisation/team/education/samantha-durbin"
+    website="http://rigb.org/about/organisation/team/education/samantha-durbin"
     twitter="SamDurbin1"
 %}
 
@@ -14,7 +14,7 @@ title: The Team
     img="assets/img/people/kevin-houston.png"
     name="Kevin Houston"
     about="Kevin is a mathematician in the School of Mathematics at the University of Leeds, and is currently the Education Secretary of the London Mathematical Society."
-    website="http://www.kevinhouston.net/"
+    website="http://kevinhouston.net"
     twitter="k_houston_math"
 %}
 
