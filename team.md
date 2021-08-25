@@ -27,6 +27,7 @@ title: The Team
     about="Matthew is a postdoctoral researcher at the University of Cambridge and one of the editors of Chalkdust Magazine."
     website="https://mscroggs.co.uk"
     twitter="mscroggs"
+    github="mscroggs"
     pronouns="he/him"
 %}
 
