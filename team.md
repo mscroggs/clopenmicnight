@@ -3,7 +3,7 @@ title: The Team
 ---
 
 {% include _person.html
-    img="assets/img/people/sam-durbin.jpg"
+    img="assets/img/people/samantha-durbin.jpg"
     name="Samantha Durbin"
     about="Samantha is STEM communicator & mathematican based at the Royal Institution."
     website="http://rigb.org/about/organisation/team/education/samantha-durbin"
