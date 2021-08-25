@@ -18,6 +18,7 @@ for a ticket to a show - you can do so at any time by visiting
     about="Katie Steckles is a mathematician based in Manchester, who gives talks and workshops and writes about mathematics. She finished her PhD in 2011, and since then has talked about maths in schools, at science festivals, on BBC radio and TV, at music festivals, as part of theatre shows and on the internet."
     twitter="stecks"
     website="https://katiesteckles.co.uk"
+    pronouns="she/her"
 %}
 
 {% include _person.html
@@ -28,6 +29,7 @@ for a ticket to a show - you can do so at any time by visiting
     twitter="hanaayoob"
     etsy="CuriousOctoDesigns"
     instagram="hana.ayoob"
+    pronouns="she/her"
 %}
 
 {% include _person.html
@@ -36,6 +38,7 @@ for a ticket to a show - you can do so at any time by visiting
     about="Lorraine Underwood is a maker, author and computer scientist originally from Ireland and based in North Yorkshire, who teaches at Lancaster University and loves to run making workshops for children, write educational content for teachers and blog about making. Her book Save the World With Code includes fun making projects for Raspberry Pi, micro:bit, and Circuit Playground Express."
     website="https://lorraine.mcunderwood.org"
     twitter="LMcUnderwood"
+    pronouns="she/her"
 %}
 
 {% include _person.html
@@ -44,6 +47,7 @@ for a ticket to a show - you can do so at any time by visiting
     about="Becky Warren is a clinical data analyst based in California. She loves neat mathematical puzzles, mathematical art and origami and is interested in STEM education."
     website="http://linescurvesspirals.blogspot.com"
     twitter="becky_k_warren"
+    pronouns="she/her"
 %}
 
 {% include _person.html
@@ -52,6 +56,7 @@ for a ticket to a show - you can do so at any time by visiting
     about="Kyle Evans is an award-winning comedian and maths communicator - combining comedy, song and extreme pedantry to lethal effect (not literally.) You'll find him performing family and grown-up shows at festivals, comedy clubs, schools, pubs, pie shops... anywhere that wants a venn diagram intersection of maths and entertainment. He's appeared several times on Radio 4's cult numbers show 'More or Less' and had a song about the Riemann Hypothesis turned into a local radio jingle. His new book <a href='https://atlantic-books.co.uk/book/maths-tricks-to-blow-your-mind/'>Maths Tricks to Blow Your Mind</a> is out on 7th October."
     website="https://kyledevans.com"
     twitter="kyledevans"
+    pronouns="he/him"
 %}
 
 Sign up below to receive an email reminder shortly before the event.
