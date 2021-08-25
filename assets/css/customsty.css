@@ -250,7 +250,8 @@ h2 {
 
 @media (min-width:730px){
 .person {
-  min-height:200px
+  min-height:200px;
+  margin-bottom:25px
 }
 
 .person .imgwrap {
