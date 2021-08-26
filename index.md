@@ -31,6 +31,16 @@ accessible to anyone aged 14+.
 
 <br />
 
+We'd like this event to be fun for everyone, so we have a code of
+conduct: don't engage in exclusionary behaviour or language, harassment,
+bullying, aggression or elitism, or make exclusionary jokes - not even
+ironically. Use gender-neutral language where appropriate and respect
+people's pronouns. This event is aimed at adults, so there may be some
+swearing. If you have any concerns you can email us at
+<b>hello@clopenmicnight.com</b>.
+
+<br />
+
 <div class='footnote' id='footnote1'>* Clopen is an incredibly niche mathematical term for something that is both open and closed 
 at the same time. If you'd like more information, find a friendly mathematician and ask them 
 to tell you about it.
