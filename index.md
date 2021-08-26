@@ -37,7 +37,7 @@ bullying, aggression or elitism, or make exclusionary jokes - not even
 ironically. Use gender-neutral language where appropriate and respect
 people's pronouns. This event is aimed at adults, so there may be some
 swearing. If you have any concerns you can email us at
-<b>hello@clopenmicnight.com</b>.
+**hello@clopenmicnight.com**.
 
 <br />
 
