@@ -2,6 +2,8 @@
 title: ""
 ---
 
+**Clopen Mic Night is happening now. Watch it at [youtu.be/HHTf2SCR8jE](https://youtu.be/HHTf2SCR8jE).**
+
 Clopen<a href='#footnote1'>*</a> Mic Night is a mathematical variety show featuring 
 mathematicians, performers and maths communicators bringing you a
 random<a href='#footnote2'>**</a> selection of comedy, music, art, demos and puzzles to
