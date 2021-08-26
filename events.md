@@ -2,10 +2,10 @@
 title: "Events"
 ---
 
-The first Clopen Mic Night will take place on Thursday 26th August at 8-9pm (BST).
-You can view the show live on YouTube at [youtu.be/HHTf2SCR8jE](https://youtu.be/HHTf2SCR8jE).
+The first Clopen Mic Night took place on Thursday 26th August at 8-9pm (BST).
+You can (for a limited time) view a recording of the show on YouTube at [youtu.be/HHTf2SCR8jE](https://youtu.be/HHTf2SCR8jE).
 
-The show is free to watch, but we support our performers and pay our behind-the-scenes team 
+The show was free to watch, but we support our performers and pay our behind-the-scenes team 
 for their work, so if you'd like to make a contribution - for example, as much as you'd pay 
 for a ticket to a show - you can do so at any time by visiting 
 [ko-fi.com/clopenmicnight](https://ko-fi.com/clopenmicnight) or
@@ -59,5 +59,5 @@ for a ticket to a show - you can do so at any time by visiting
     pronouns="he/him"
 %}
 
-Sign up below to receive an email reminder shortly before the event.
+Sign up below to receive an email reminder shortly before our next event.
 <div class="sender-form-field" data-sender-form-id="ks7i2oxmaq7jqdqvszm" style="text-align:center"></div>
