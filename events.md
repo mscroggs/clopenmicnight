@@ -47,6 +47,7 @@ for a ticket to a show - you can do so at any time by visiting
     about="Becky Warren is a clinical data analyst based in California. She loves neat mathematical puzzles, mathematical art and origami and is interested in STEM education."
     website="http://linescurvesspirals.blogspot.com"
     twitter="becky_k_warren"
+    instagram="beckys_geometric_art"
     pronouns="she/her"
 %}
 
