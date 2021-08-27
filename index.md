@@ -9,10 +9,12 @@ share and showcase their love of mathematics.
 
 Clopen Mic Night happens on a semi-regular basis, in the evening from **8-9pm** (UK time), 
 live on YouTube, with audience interaction in the YouTube Live Chat and a selection of four 
-acts to enjoy. The first Clopen Mic Night took place as part of the 2021 Talking Maths in 
-Public conference, on Thursday 26th August. You can (for a limited time) watch a recording of the show at
-[youtu.be/HHTf2SCR8jE](https://youtu.be/HHTf2SCR8jE). The line-up can be found
-[here](/events/2021-08-26.html). You can sign up below to receive an email before our next event.
+acts to enjoy. The [first Clopen Mic Night](/events/2021-08-26.html) took place as part of the 2021 Talking Maths in 
+Public conference, on Thursday 26th August. Details of our shows can be found on [the events page](/events/index.html)
+You can sign up below to receive an email before our next event.
+
+You can (for a limited time) watch a recording of [Clopen Mic Night #1](/events/2021-08-26.html) at
+[youtu.be/HHTf2SCR8jE](https://youtu.be/HHTf2SCR8jE).
 
 The show is free to watch, but we support our performers and pay our behind-the-scenes team 
 for their work, so if you'd like to make a contribution - for example, as much as you'd pay 

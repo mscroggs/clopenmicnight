@@ -2,6 +2,6 @@
 - title: Home
   page: index
 - title: Events
-  page: events
+  page: events/index
 - title: Team
   page: team
