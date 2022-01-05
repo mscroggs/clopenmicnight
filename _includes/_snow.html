@@ -27,10 +27,7 @@ function drawFlakes() {
   canvas.height = document.documentElement.clientHeight
 
   ctx.clearRect(0, 0, canvas.width, canvas.height);
-  console.log("A")
-  console.log(positions.length)
   for (var i = 0; i < positions.length; i++) {
-    console.log(positions[i][0], positions[i][1])
     ctx.drawImage(snowflake, positions[i][0]-15, positions[i][1]-15, 30, 30);
   }
 }
