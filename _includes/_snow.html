@@ -1,0 +1,59 @@
+<canvas id='snow' style='position:absolute;z-index:-2;top:0;left:0;width:100%;height:100%'></canvas>
+<script type='text/javascript'>
+var positions = Array()
+
+var snowflake = new Image()
+snowflake.src = '/assets/img/koch.png'
+
+var canvas = document.getElementById("snow");
+var ctx = canvas.getContext("2d");
+
+function updateFlakes() {
+  canvas.width = document.documentElement.clientWidth
+  canvas.height = document.documentElement.clientHeight
+
+  for (var i = 0; i < positions.length; i++) {
+    positions[i][1] += 4
+    positions[i][0] += positions[i][2]
+    if (positions[i][1] > canvas.height + 30 || positions[i][0] > canvas.width + 30 || positions[i][0] < -30) {
+        positions[i] = randomPos(-30)
+    }
+  }
+  drawFlakes()
+}
+
+function drawFlakes() {
+  canvas.width = document.documentElement.clientWidth
+  canvas.height = document.documentElement.clientHeight
+
+  ctx.clearRect(0, 0, canvas.width, canvas.height);
+  console.log("A")
+  console.log(positions.length)
+  for (var i = 0; i < positions.length; i++) {
+    console.log(positions[i][0], positions[i][1])
+    ctx.drawImage(snowflake, positions[i][0]-15, positions[i][1]-15, 30, 30);
+  }
+}
+
+function randomPos(h) {
+  if (h == "RAND") {
+    h = Math.floor(Math.random() * canvas.height)
+  }
+  canvas.width = document.documentElement.clientWidth
+  canvas.height = document.documentElement.clientHeight
+
+  return Array(Math.floor(Math.random() * canvas.width), h, Math.floor(Math.random() * 10 - 5))
+}
+
+window.onload = function() {
+  for (var i = 0; i < 50; i++)
+  {
+    positions.push(randomPos("RAND"))
+  }
+  updateFlakes()
+}
+
+setInterval(updateFlakes, 100)
+
+</script>
+
