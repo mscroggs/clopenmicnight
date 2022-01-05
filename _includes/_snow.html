@@ -14,6 +14,15 @@ function resizeCanvas() {
   canvas.height = document.getElementById("header_wrap").clientHeight
   // canvas.height = document.documentElement.clientHeight
 
+  for (var i = 0; i < positions.length; i++) {
+    if (snow_depth < canvas.height && positions[i][1] > canvas.height + 30 - snow_depth) {
+        positions[i] = randomPos(-30)
+        snow_depth += 0.01
+    } else if (positions[i][0] > canvas.width + 30 || positions[i][0] < -30) {
+        positions[i] = randomPos(-30)
+    }
+  }
+
   drawFlakes()
 }
 
@@ -21,10 +30,6 @@ function updateFlakes() {
   for (var i = 0; i < positions.length; i++) {
     positions[i][1] += 4
     positions[i][0] += positions[i][2]
-    if (positions[i][1] > canvas.height + 30 || positions[i][0] > canvas.width + 30 || positions[i][0] < -30) {
-        positions[i] = randomPos(-30)
-        snow_depth += 0.01
-    }
   }
   drawFlakes()
 }
@@ -56,7 +61,7 @@ window.onload = function() {
 }
 
 setInterval(updateFlakes, 100)
-setInterval(resizeCanvas, 2000)
+setInterval(resizeCanvas, 1000)
 
 </script>
 
