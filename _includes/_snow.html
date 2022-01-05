@@ -1,4 +1,4 @@
-<canvas id='snow' style='position:absolute;z-index:-2;top:0;left:0;width:100%;height:100%'></canvas>
+<canvas id='snow' style='position:absolute;z-index:-2;top:0;left:0;'></canvas>
 <script type='text/javascript'>
 var positions = Array()
 
@@ -7,42 +7,47 @@ snowflake.src = '/assets/img/koch.png'
 
 var canvas = document.getElementById("snow");
 var ctx = canvas.getContext("2d");
+var snow_depth = 0
+
+function resizeCanvas() {
+  canvas.width = document.documentElement.clientWidth
+  canvas.height = document.getElementById("header_wrap").clientHeight
+  // canvas.height = document.documentElement.clientHeight
+
+  drawFlakes()
+}
 
 function updateFlakes() {
-  canvas.width = document.documentElement.clientWidth
-  canvas.height = document.documentElement.clientHeight
-
   for (var i = 0; i < positions.length; i++) {
     positions[i][1] += 4
     positions[i][0] += positions[i][2]
     if (positions[i][1] > canvas.height + 30 || positions[i][0] > canvas.width + 30 || positions[i][0] < -30) {
         positions[i] = randomPos(-30)
+        snow_depth += 0.01
     }
   }
   drawFlakes()
 }
 
 function drawFlakes() {
-  canvas.width = document.documentElement.clientWidth
-  canvas.height = document.documentElement.clientHeight
-
   ctx.clearRect(0, 0, canvas.width, canvas.height);
   for (var i = 0; i < positions.length; i++) {
     ctx.drawImage(snowflake, positions[i][0]-15, positions[i][1]-15, 30, 30);
   }
+  ctx.fillStyle = "#FFFFFF"
+  ctx.fillRect(0, canvas.height - snow_depth, canvas.width, snow_depth)
 }
 
 function randomPos(h) {
   if (h == "RAND") {
     h = Math.floor(Math.random() * canvas.height)
   }
-  canvas.width = document.documentElement.clientWidth
-  canvas.height = document.documentElement.clientHeight
 
   return Array(Math.floor(Math.random() * canvas.width), h, Math.floor(Math.random() * 10 - 5))
 }
 
 window.onload = function() {
+  resizeCanvas()
   for (var i = 0; i < 50; i++)
   {
     positions.push(randomPos("RAND"))
@@ -51,6 +56,7 @@ window.onload = function() {
 }
 
 setInterval(updateFlakes, 100)
+setInterval(resizeCanvas, 2000)
 
 </script>
 
