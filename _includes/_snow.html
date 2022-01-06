@@ -2,8 +2,12 @@
 <script type='text/javascript'>
 var positions = Array()
 
-var snowflake = new Image()
-snowflake.src = '/assets/img/koch.png'
+var snowflakes = Array()
+for (var i = 0; i <= 8; i++) {
+  var img = new Image()
+  img.src = '/assets/img/koch' + i + '.png'
+  snowflakes.push(img)
+}
 
 var canvas = document.getElementById("snow");
 var ctx = canvas.getContext("2d");
@@ -37,7 +41,7 @@ function updateFlakes() {
 function drawFlakes() {
   ctx.clearRect(0, 0, canvas.width, canvas.height);
   for (var i = 0; i < positions.length; i++) {
-    ctx.drawImage(snowflake, positions[i][0]-15, positions[i][1]-15, 30, 30);
+    ctx.drawImage(snowflakes[positions[i][3]], positions[i][0]-15, positions[i][1]-15, 30, 30);
   }
   ctx.fillStyle = "#FFFFFF"
   ctx.fillRect(0, canvas.height - snow_depth, canvas.width, snow_depth)
@@ -48,7 +52,7 @@ function randomPos(h) {
     h = Math.floor(Math.random() * canvas.height)
   }
 
-  return Array(Math.floor(Math.random() * canvas.width), h, Math.floor(Math.random() * 10 - 5))
+  return Array(Math.floor(Math.random() * canvas.width), h, Math.floor(Math.random() * 10 - 5), Math.floor(Math.random() * 9))
 }
 
 window.onload = function() {
