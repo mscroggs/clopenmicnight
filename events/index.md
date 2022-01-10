@@ -2,11 +2,64 @@
 title: "Events"
 ---
 
-**Clopen Mic Night #2: Clopen Winterval** will take place on **Thursday 20th January** from **8-9pm** (UK time), and details of the line-up and link to watch will be added here shortly.
+**Clopen Mic Night #2: Clopen Winterval** will take place on **Thursday 20th January** from **8-9pm** (UK time). It can be watched live on YouTube at [youtu.be/OyBScjWS4Ns](https://youtu.be/OyBScjWS4Ns).
+A recording of the show will be available to watch afterwards for a short period of time. The line-up for Clopen Mic Night #2 can be found below.
+
+The show is free to watch, but we support our performers and pay our behind-the-scenes team 
+for their work, so if you'd like to make a contribution - for example, as much as you'd pay 
+for a ticket to a show - you can do so at any time by visiting 
+[ko-fi.com/clopenmicnight](https://ko-fi.com/clopenmicnight) or
+[paypal.me/tmipuk](https://paypal.me/tmipuk).
 
 Our first event, [Clopen Mic Night #1](/events/2021-08-26.html), took place on 26th August 2021, and the performers were [Hana Ayoob](https://hanaayoob.co.uk), [Lorraine Underwood](https://lorraine.mcunderwood.org/), [Becky Warren](http://linescurvesspirals.blogspot.com) and [Kyle Evans](https://kyledevans.com).
 
 A list of all our past shows, with links to line-ups can be found [here](/events/list.html).
 
+## Line-up
+{% include _person.html
+    img="/assets/img/people/katie-steckles.jpg"
+    name="Katie Steckles"
+    about="Katie Steckles is a mathematician based in Manchester, who gives talks and workshops and writes about mathematics. She finished her PhD in 2011, and since then has talked about maths in schools, at science festivals, on BBC radio and TV, at music festivals, as part of theatre shows and on the internet."
+    twitter="stecks"
+    website="https://katiesteckles.co.uk"
+    pronouns="she/her"
+%}
+
+{% include _person.html
+    img="/assets/img/people/ayliean-macdonald.jpg"
+    name="Ayliean MacDonald"
+    about="Ayliean MacDonald is a maths teacher based in Dundee, Scotland. In her spare time, she looks for creative ways to explore, explain and spark interest in maths, and produces YouTube videos and zines to share mathematical ideas. Ayliean has cool tattoos of fractals, and her videos often involve intricate mathematical drawings, paintings and music. She has also presented videos for the Numberphile channel."
+    website="https://linktr.ee/Ayliean"
+    twitter="ayliean"
+    youtube="Ayliean"
+    pronouns="she/her"
+%}
+
+{% include _person.html
+    img="/assets/img/people/lucy-rycroft-smith.jpg"
+    name="Lucy Rycroft-Smith"
+    about="Lucy Rycroft-Smith is a mathematics education researcher, writer and designer at the University of Cambridge, as well as a stand-up comedian at the stage of her career fondly known as ‘hit-and-miss’. Alongside Darren, she enjoys drawing on the rich seam of experience they have as former mathematics teachers and as mathematicians in a society that – how can we put this – does not always seem excited to hear about mathematics. She is an author of <em>Flip the System UK: A Teachers’ Manifesto</em> (Routledge, 2017) and <em>The Equal Classroom: Life-Changing Thinking About Gender</em> (Routledge, 2019)."
+    twitter="honeypisquared"
+    pronouns="she/her"
+%}
+
+{% include _person.html
+    img="/assets/img/people/darren-macey.jpg"
+    name="Darren Macey"
+    about="Darren Macey is a mathematics education researcher, writer and designer at the University of Cambridge, as well as a stand-up comedian at the stage of his career fondly known as ‘hit-and-miss’. Alongside Lucy, he enjoys drawing on the rich seam of experience they have as former mathematics teachers and as mathematicians in a society that – how can we put this – does not always seem excited to hear about mathematics. He is an author of <em>Teaching Statistics</em> (Cup, 2018)."
+    twitter="darrenmacey"
+    pronouns="he/him"
+%}
+
+{% include _person.html
+    img="/assets/img/people/adam-townsend.jpg"
+    name="Adam Townsend"
+    about="Adam Townsend is an assistant professor in the Department of Mathematical Sciences at Durham University, where he researches unusual fluids such as mucus, mayonnaise, and melted chocolate. In his spare time, he listens to BBC Radio 2 and edits Chalkdust Magazine."
+    website="https://adamtownsend.com"
+    twitter="pecnut"
+    pronouns="he/him"
+%}
+
 Sign up below to receive an email reminder shortly before our next event.
 <div class="sender-form-field" data-sender-form-id="ks7i2oxmaq7jqdqvszm" style="text-align:center"></div>
+
