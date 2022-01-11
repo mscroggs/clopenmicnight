@@ -1,16 +1,10 @@
 <div class='person'>
-{% if {{include.img}} %}<div class='imgwrap'>
-<img src='{{include.img}}'><br />
-{% if {{include.img2}} %}
-<img src='{{include.img2}}'>
-{% endif %}
-</div>{% endif %}
+<div class='imgwrap'>{% if {{include.img}} %}<img src='{{include.img}}'>{% else %}<img src='/assets/img/faceholder.png'>{% endif %}{% if {{include.img2}} %}<br /><img src='{{include.img2}}'>{% endif %}</div>
 <div class='innertext'>
 <h3>{{include.name}} & {{include.name2}}</h3>
 {{include.about}}
-<br />
-
-<ul class='sociallist' style='display:inline-block;width:200px'>
+<div style='display:grid'>
+<ul class='sociallist' style='grid-area: 1 / 1 / 1 / 1'>
 <li><em>{{include.name}}</em></li>
 {% if {{include.pronouns}} %}<li><i class="fa fa-user" aria-hidden="true"></i> {{include.pronouns}}</li>{% endif %}
 {% if {{include.website}} %}<li><a href="{{include.website}}"><i class="fa fa-internet-explorer" aria-hidden="true"></i> {% if {{include.website_text}} %}{{include.website_text}}{% else %}{{ include.website | split:"//" | last}}{% endif %}</a></li>{% endif %}
@@ -21,7 +15,7 @@
 {% if {{include.etsy}} %}<li><a href="https://etsy.com/uk/shop/{{include.etsy}}"><i class="fa fa-etsy" aria-hidden="true"></i> {{include.etsy}}</a></li>{% endif %}
 {% if {{include.instagram}} %}<li><a href="https://www.instagram.com/{{include.instagram}}"><i class="fa fa-instagram" aria-hidden="true"></i> {{include.instagram}}</a></li>{% endif %}
 </ul>
-<ul class='sociallist' style='display:inline-block;width:200px'>
+<ul class='sociallist' style='grid-area: 1 / 2 / 1 / 2'>
 <li><em>{{include.name2}}</em></li>
 {% if {{include.pronouns2}} %}<li><i class="fa fa-user" aria-hidden="true"></i> {{include.pronouns2}}</li>{% endif %}
 {% if {{include.website2}} %}<li><a href="{{include.website2}}"><i class="fa fa-internet-explorer" aria-hidden="true"></i> {% if {{include.website_text2}} %}{{include.website_text2}}{% else %}{{ include.website2 | split:"//" | last}}{% endif %}</a></li>{% endif %}
@@ -32,5 +26,6 @@
 {% if {{include.etsy2}} %}<li><a href="https://etsy.com/uk/shop/{{include.etsy2}}"><i class="fa fa-etsy" aria-hidden="true"></i> {{include.etsy2}}</a></li>{% endif %}
 {% if {{include.instagram2}} %}<li><a href="https://www.instagram.com/{{include.instagram2}}"><i class="fa fa-instagram" aria-hidden="true"></i> {{include.instagram2}}</a></li>{% endif %}
 </ul>
+</div>
 </div>
 </div>

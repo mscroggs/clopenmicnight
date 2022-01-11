@@ -250,8 +250,18 @@ h2 {
 
 @media (min-width:730px){
 .person {
-  min-height:200px;
+  display:grid;
   margin-bottom:25px
+}
+
+.person .imgwrap {
+  grid-area: 1 / 1 / 1 / 1
+}
+.person .innertext {
+  grid-area: 1 / 2 / 1 / 2
+}
+/*.person {
+  min-height:200px;
 }
 
 .person .imgwrap {
@@ -262,7 +272,7 @@ h2 {
 .person .imgwrap, .person .innertext {
   display:inline-block
 }
-
+*/
 } /* end min-width:730px */
 
 @media (max-width:730px){

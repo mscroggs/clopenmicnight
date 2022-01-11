@@ -1,5 +1,5 @@
 <div class='person'>
-{% if {{include.img}} %}<div class='imgwrap'><img src='{{include.img}}'></div>{% endif %}
+<div class='imgwrap'>{% if {{include.img}} %}<img src='{{include.img}}'>{% else %}<img src='/assets/img/faceholder.png'>{% endif %}</div>
 <div class='innertext'>
 <h3>{{include.name}}</h3>
 {{include.about}}
