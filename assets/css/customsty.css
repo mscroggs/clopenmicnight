@@ -251,7 +251,8 @@ h2 {
 @media (min-width:730px){
 .person {
   display:grid;
-  margin-bottom:25px
+  margin-bottom:25px;
+  grid-template-columns: 190px auto;
 }
 
 .person .imgwrap {
