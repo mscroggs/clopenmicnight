@@ -56,6 +56,16 @@ A list of all our past shows, with links to line-ups can be found [here](/events
     pronouns="he/him"
 %}
 
+{% include _person.html
+    img="/assets/img/people/james-arthur.jpg"
+    name="James Arthur"
+    about="James Arthur is a Mathematical Communicator based in the South West. They can be found travelling; through the air waves via BBC Radio 5, on a train to their next talk or (on the rare occasion) studying for that next exam. They are an undergraduate at the University of Exeter, graduating this summer."
+    website="https://alephjamesa.co.uk"
+    twitter="alephJamesA"
+    youtube="channel/UCdl_3rIW0yKWLPNM_lqxoyQ"
+    pronouns="they/them"
+%}
+
 Sign up below to receive an email reminder shortly before our next event.
 <div class="sender-form-field" data-sender-form-id="ks7i2oxmaq7jqdqvszm" style="text-align:center"></div>
 
