@@ -26,13 +26,12 @@ A list of all our past shows, with links to line-ups can be found [here](/events
 %}
 
 {% include _person.html
-    img="/assets/img/people/ayliean-macdonald.jpg"
-    name="Ayliean MacDonald"
-    about="Ayliean MacDonald is a maths teacher based in Dundee, Scotland. In her spare time, she looks for creative ways to explore, explain and spark interest in maths, and produces YouTube videos and zines to share mathematical ideas. Ayliean has cool tattoos of fractals, and her videos often involve intricate mathematical drawings, paintings and music. She has also presented videos for the Numberphile channel."
-    website="https://linktr.ee/Ayliean"
-    twitter="ayliean"
-    youtube="Ayliean"
-    pronouns="she/her"
+    img="/assets/img/people/adam-townsend.jpg"
+    name="Adam Townsend"
+    about="Adam Townsend is an assistant professor in the Department of Mathematical Sciences at Durham University, where he researches unusual fluids such as mucus, mayonnaise, and melted chocolate. In his spare time, he listens to BBC Radio 2 and edits Chalkdust Magazine."
+    website="https://adamtownsend.com"
+    twitter="pecnut"
+    pronouns="he/him"
 %}
 
 {% include _double_act.html
@@ -48,15 +47,6 @@ A list of all our past shows, with links to line-ups can be found [here](/events
 %}
 
 {% include _person.html
-    img="/assets/img/people/adam-townsend.jpg"
-    name="Adam Townsend"
-    about="Adam Townsend is an assistant professor in the Department of Mathematical Sciences at Durham University, where he researches unusual fluids such as mucus, mayonnaise, and melted chocolate. In his spare time, he listens to BBC Radio 2 and edits Chalkdust Magazine."
-    website="https://adamtownsend.com"
-    twitter="pecnut"
-    pronouns="he/him"
-%}
-
-{% include _person.html
     img="/assets/img/people/james-arthur.jpg"
     name="James Arthur"
     about="James Arthur is a Mathematical Communicator based in the South West. They can be found travelling; through the air waves via BBC Radio 5, on a train to their next talk or (on the rare occasion) studying for that next exam. They are an undergraduate at the University of Exeter, graduating this summer."
@@ -64,6 +54,16 @@ A list of all our past shows, with links to line-ups can be found [here](/events
     twitter="alephJamesA"
     youtube="channel/UCdl_3rIW0yKWLPNM_lqxoyQ"
     pronouns="they/them"
+%}
+
+{% include _person.html
+    img="/assets/img/people/ayliean-macdonald.jpg"
+    name="Ayliean MacDonald"
+    about="Ayliean MacDonald is a maths teacher based in Dundee, Scotland. In her spare time, she looks for creative ways to explore, explain and spark interest in maths, and produces YouTube videos and zines to share mathematical ideas. Ayliean has cool tattoos of fractals, and her videos often involve intricate mathematical drawings, paintings and music. She has also presented videos for the Numberphile channel."
+    website="https://linktr.ee/Ayliean"
+    twitter="ayliean"
+    youtube="Ayliean"
+    pronouns="she/her"
 %}
 
 Sign up below to receive an email reminder shortly before our next event.
