@@ -1,0 +1,106 @@
+<script type='text/javascript'>
+
+function fade_out(element) {
+    var op = 1;
+    var timer = setInterval(function () {
+        if (op <= 0.05){
+            clearInterval(timer);
+            element.style.display = 'none';
+        } else {
+            element.style.opacity = op;
+            element.style.filter = 'alpha(opacity=' + op * 100 + ')';
+            op -= 0.05
+        }
+    }, 50);
+}
+
+function crossfade(e1, e2, e3, e4) {
+    var op1 = 1;
+    var timer1 = setInterval(function () {
+        if (op1 <= 0.05){
+            clearInterval(timer1);
+            e1.style.display = 'none';
+            if(e4!==false){
+                e4.style.display = 'none';
+            }
+            var op2 = 0;  // initial opacity
+            e2.style.opacity = op2;
+            e2.style.filter = 'alpha(opacity=' + op2 * 100 + ')';
+            e2.style.display = 'block';
+            if (e3 !== false){
+                e3.style.opacity = op2;
+                e3.style.filter = 'alpha(opacity=' + op2 * 100 + ')';
+                e3.style.display = 'block';
+            }
+            var timer2 = setInterval(function () {
+                if (op2 >= 0.95){
+                    clearInterval(timer2);
+                    e2.style.opacity = 1;
+                    e2.style.filter = 'alpha(opacity=100)';
+                    if (e3 !== false){
+                        e3.style.opacity = 1;
+                        e3.style.filter = 'alpha(opacity=100)';
+                    }
+                } else {
+                    e2.style.opacity = op2;
+                    e2.style.filter = 'alpha(opacity=' + op2 * 100 + ')';
+                    if (e3 !== false){
+                        e3.style.opacity = op2;
+                        e3.style.filter = 'alpha(opacity=' + op2 * 100 + ')';
+                    }
+                    op2 += 0.05
+                }
+            }, 50);
+        } else {
+            e1.style.opacity = op1;
+            e1.style.filter = 'alpha(opacity=' + op1 * 100 + ')';
+            if(e4!==false){
+                e4.style.opacity = op1;
+                e4.style.filter = 'alpha(opacity=' + op1 * 100 + ')';
+            }
+            op1 -= 0.05
+        }
+    }, 50);
+
+}
+
+document.addEventListener('keyup', function(event){
+    const currentCode = event.which || event.code;
+    var currentKey = event.key;
+    if (!currentKey) {
+        currentKey = String.fromCharCode(currentCode);
+    }
+    const keyName = "" + currentKey
+    process_key(keyName)
+})
+
+var started = false
+var state = 0;
+var slides = ["default_view", "donate_view", "credits_view", "see_you_view"]
+function process_key(keyName){
+  if(keyName == "q" && !started){
+    setInterval(next_slide_please, 16000)
+    started = true
+  }
+  if(keyName == "t"){
+    document.getElementById("default_view").style.display = "none"
+    document.getElementById("date_view").style.display = "block"
+  }
+}
+function next_slide_please(){
+  if(state + 1 < slides.length){
+    if (state == 0) {
+      crossfade(document.getElementById(slides[state]), document.getElementById(slides[state + 1]), document.getElementById("smaller_project_title"), false)
+    } else if (state + 2 == slides.length){
+      crossfade(document.getElementById(slides[state]), document.getElementById(slides[state + 1]), false, document.getElementById("smaller_project_title"))
+    } else {
+      crossfade(document.getElementById(slides[state]), document.getElementById(slides[state + 1]), false, false)
+    }
+  } else if (state +1 == slides.length){
+    crossfade(document.getElementById(slides[state]), document.getElementById("date_view"), false, false)
+    snowspeed = 0.5
+  }
+  state ++;
+}
+
+</script>
