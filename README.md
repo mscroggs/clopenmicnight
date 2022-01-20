@@ -9,7 +9,7 @@ Running the site locally
 The site can be built and served locally by running the following once:
 
 ```bash
-bunble install
+bundle install
 ```
 
 Then running:
