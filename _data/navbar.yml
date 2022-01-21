@@ -1,7 +1,7 @@
 # Site navigation links
 - title: Home
-  page: index
+  page: /
 - title: Events
-  page: events/index
+  page: /events
 - title: Team
-  page: team
+  page: /team

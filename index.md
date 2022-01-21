@@ -1,5 +1,6 @@
 ---
 title: ""
+permalink: /
 ---
 
 Clopen<a href='#footnote1'>*</a> Mic Night is a mathematical variety show featuring 
@@ -8,11 +9,11 @@ random<a href='#footnote2'>**</a> selection of comedy, music, art, demos and puz
 share and showcase their love of mathematics.
 
 **Clopen Mic Night #2: Clopen Winterval** took place on **Thursday 20th January** from **8-9pm** (UK time). For a limited time, a recording of the show can be watched on YouTube at [youtu.be/OyBScjWS4Ns](https://youtu.be/OyBScjWS4Ns).
-The line-up for Clopen Mic Night #2 can be found on [the events page](/events).
+The line-up for Clopen Mic Night #2 can be found on [the events page](events/index.md).
 
 Clopen Mic Night happens on a semi-regular basis, live on YouTube, with audience interaction in the YouTube Live Chat and a selection of four 
-acts to enjoy. The [first Clopen Mic Night](/events/2021-08-26.html) took place as part of the 2021 Talking Maths in 
-Public conference, on Thursday 26th August. Details of our shows can be found on [the events page](/events/index.html).
+acts to enjoy. The [first Clopen Mic Night](events/2021-08-26.md) took place as part of the 2021 Talking Maths in 
+Public conference, on Thursday 26th August. Details of our shows can be found on [the events page](events/index.md).
 You can sign up below to receive an email before our next event.
 
 The show is free to watch, but we support our performers and pay our behind-the-scenes team 

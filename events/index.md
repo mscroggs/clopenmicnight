@@ -1,5 +1,6 @@
 ---
 title: "Events"
+permalink: /events
 ---
 
 **Clopen Mic Night #2: Clopen Winterval** took place on **Thursday 20th January** from **8-9pm** (UK time). For a limited time, a recording of the show can be watched on YouTube at [youtu.be/OyBScjWS4Ns](https://youtu.be/OyBScjWS4Ns).
@@ -11,9 +12,9 @@ for a ticket to a show - you can do so at any time by visiting
 [ko-fi.com/clopenmicnight](https://ko-fi.com/clopenmicnight) or
 [paypal.me/tmipuk](https://paypal.me/tmipuk).
 
-Our first event, [Clopen Mic Night #1](/events/2021-08-26.html), took place on 26th August 2021, and the performers were [Hana Ayoob](https://hanaayoob.co.uk), [Lorraine Underwood](https://lorraine.mcunderwood.org/), [Becky Warren](http://linescurvesspirals.blogspot.com) and [Kyle Evans](https://kyledevans.com).
+Our first event, [Clopen Mic Night #1](2021-08-26.md), took place on 26th August 2021, and the performers were [Hana Ayoob](https://hanaayoob.co.uk), [Lorraine Underwood](https://lorraine.mcunderwood.org/), [Becky Warren](http://linescurvesspirals.blogspot.com) and [Kyle Evans](https://kyledevans.com).
 
-A list of all our past shows, with links to line-ups can be found [here](/events/list.html).
+A list of all our past shows, with links to line-ups can be found [here](list.md).
 
 ## Line-up
 {% include _person.html
@@ -31,6 +32,7 @@ A list of all our past shows, with links to line-ups can be found [here](/events
     about="Adam Townsend is an assistant professor in the Department of Mathematical Sciences at Durham University, where he researches unusual fluids such as mucus, mayonnaise, and melted chocolate. In his spare time, he listens to BBC Radio 2 and edits Chalkdust Magazine."
     website="https://adamtownsend.com"
     twitter="pecnut"
+    github="Pecnut"
     pronouns="he/him"
 %}
 
