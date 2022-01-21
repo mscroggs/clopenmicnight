@@ -2,8 +2,8 @@
 title: "Events"
 ---
 
-**Clopen Mic Night #2: Clopen Winterval** will take place on **Thursday 20th January** from **8-9pm** (UK time). It can be watched live on YouTube at [youtu.be/OyBScjWS4Ns](https://youtu.be/OyBScjWS4Ns).
-A recording of the show will be available to watch afterwards for a short period of time. The line-up for Clopen Mic Night #2 can be found below.
+**Clopen Mic Night #2: Clopen Winterval** took place on **Thursday 20th January** from **8-9pm** (UK time). For a limited time, a recording of the show can be watched on YouTube at [youtu.be/OyBScjWS4Ns](https://youtu.be/OyBScjWS4Ns).
+The line-up for Clopen Mic Night #2 can be found below.
 
 The show is free to watch, but we support our performers and pay our behind-the-scenes team 
 for their work, so if you'd like to make a contribution - for example, as much as you'd pay 
