@@ -1,14 +1,17 @@
 {% include _head.html %}
 <style type='text/css'>
-#header_wrap, #footer_wrap, #site-nav{
--moz-transform: scale(-1, 1);
--webkit-transform: scale(-1, 1);
--o-transform: scale(-1, 1);
--ms-transform: scale(-1, 1);
-transform: scale(-1, 1);
+#header_wrap, #footer_wrap, #site-nav {
+  -moz-transform: scale(-1, 1);
+  -webkit-transform: scale(-1, 1);
+  -o-transform: scale(-1, 1);
+  -ms-transform: scale(-1, 1);
+  transform: scale(-1, 1);
 }
+
+#snow {z-index:2!important}
 </style>
 <body>
+{% include _snow.html %}
 {% include _header.html %}
 
 <!-- MAIN CONTENT -->
