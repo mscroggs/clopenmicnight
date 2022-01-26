@@ -10,15 +10,30 @@ We will aim to curate a selection of different types of acts to give a rounded l
 that everyone who applies to perform will be put on in a particular show, but will do our best to work with people's
 availability and preferences.
 
+Each show will be an hour long with a compere and four acts (8 minute sets) - but secretly, the event is also a
+chance for maths communicators (and maths-adjacent performers) to have a scratch night - to try out new material,
+throw things at an (online) audience and see what sticks. Anything mathematical or maths-adjacent goes - comedy,
+music, art, demos or puzzles, as long as it fits into 8 minutes.
+
+The show will be followed by a discussion (not broadcast) with the four acts and a specially invited feedback
+expert who’s watched the show (a performance trainer or experienced performer) who can give people notes, if
+desired. Performers who do not want this feedback are welcome to opt out of it. We’ll also have a feedback
+survey for the audience, and the acts can add in specific questions to that before the show if you'd find that useful.
+
+The show is produced via Zoom, which means you'll need to join a Zoom call which will be broadcast live to YouTube.
+The system we use means that if your video is switched on in the call, you'll be seen on screen, but if you mute and
+turn off video you can hide and watch the call. There's a dedicated tech person behind the scenes troubleshooting,
+and if you need to communicate with us while you're muted, the Zoom chat can be used to send messages to us.
+
+We're able to help you with some tech requests - sharing a website as a second feed in the call, playing audio clips
+on cue, and we can provide our compere as a foil, volunteer or co-presenter if you'd find that useful. You can share
+your screen for slides, or play them through your own video feed, and join the call using a separate device if you
+need a second camera on something. If you want to do something daft not covered by this, please ask!
+
 We are unable to guarantee a fee for our performers, but we will pay the backstage team and comp&egrave;re for each show
 a guaranteed fee. Some members of our audience choose to support the show by sending tips on
 [Ko-Fi](https://ko-fi.com/clopenmicnight): we will give the performers a share of these tips once we have covered the costs
-of running the show. 
-
-The main benefit to performers is that Clopen Mic Night is an opportunity to try out a new thing you're working on, plug
-your projects and upcoming events to a friendly audience, and get feedback from an experienced performer who watches the
-live show, as well as a feedback form for the audience and a group discussion with the other acts post-show. Performers
-who do not want this feedback are welcome to opt out of it.
+of running the show. For past shows, this has been in the region of £20-40 each.
 
 We'd like this event to be fun for everyone, so we have a code of conduct for people participating:
 
