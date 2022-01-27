@@ -4,9 +4,10 @@ COLOURS
 green   #059F6E     #529F87
 blue    #47D8FE     #A3EBFE         #00B1DF
 purple  #8527C7     #A677C7
-red     #A63029     #A66B68
 grey    #999999
+
 lgreen  #4Af757 (not used)
+red     #A63029     #A66B68 (not used)
 */
 
 @import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
@@ -87,11 +88,11 @@ img#mic {
   color: #00B1DF
 }
 .nav li:nth-of-type(4) a {
-  background-color: #A63029
+  background-color: #000000
 }
 .nav li:nth-of-type(4) a:hover,
 .nav li:nth-of-type(4) a.thispage {
-  color: #A63029
+  color: #000000
 }
 .nav li:nth-of-type(5) a {
   background-color: #059F6E
@@ -115,11 +116,11 @@ img#mic {
   color: #00B1DF
 }
 .nav li:nth-of-type(8) a {
-  background-color: #A63029
+  background-color: #000000
 }
 .nav li:nth-of-type(8) a:hover,
 .nav li:nth-of-type(8) a.thispage {
-  color: #A63029
+  color: #000000
 }
 
 .nav li a {
