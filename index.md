@@ -41,6 +41,9 @@ people's pronouns. This event is aimed at adults, so there may be some
 swearing. If you have any concerns you can email us at
 **hello@clopenmicnight.com**.
 
+If you want to perform a piece of comedy, music, or art, do a demo, discuss a puzzle, or do anything else at a future Clopen Mic Night, then we’d love to hear from you.
+You can find more information about performing on our [backstage page](backstage.md).
+
 <br />
 
 <div class='footnote' id='footnote1'>* Clopen is an incredibly niche mathematical term for something that is both open and closed 
