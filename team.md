@@ -25,7 +25,7 @@ permalink: /team
 {% include _person.html
     img="assets/img/people/sophie-maclean.jpg"
     name="Sophie Maclean"
-    about="Sophie is..."
+    about="Sophie is a mathematician who talks about maths to school children all over the UK and beyond. She is also one of the editors of Chalkdust Magazine."
     website="https://sophiethemathmo.wordpress.com/"
     twitter="sophiethemathmo"
     pronouns="she/her"
