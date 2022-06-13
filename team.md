@@ -23,6 +23,15 @@ permalink: /team
 %}
 
 {% include _person.html
+    img="assets/img/people/sophie-maclean.jpg"
+    name="Sophie Maclean"
+    about="Sophie is..."
+    website="https://sophiethemathmo.wordpress.com/"
+    twitter="sophiethemathmo"
+    pronouns="she/her"
+%}
+
+{% include _person.html
     img="assets/img/people/matthew-scroggs.jpg"
     name="Matthew Scroggs"
     about="Matthew is a postdoctoral researcher at the University of Cambridge and one of the editors of Chalkdust Magazine."
