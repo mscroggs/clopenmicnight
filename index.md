@@ -10,7 +10,7 @@ share and showcase their love of mathematics.
 
 **Clopen Mic Night #3: Clopen Sept** will take place on **Tuesday 13th September** from **8-9pm** (UK time).
 The show will be available to watch live for free and a recording will be available to watch for a limited time.
-The line-up for Clopen Mic Night #3 will be announced soon. More details can be found on [the events page](events/index.md).
+More details and the line-up can be found on [the events page](events/index.md).
 
 Clopen Mic Night happens on a semi-regular basis, live on YouTube, with audience interaction in the YouTube Live Chat and a selection of four 
 acts to enjoy. The [first Clopen Mic Night](events/2021-08-26.md) took place as part of the 2021 Talking Maths in 
