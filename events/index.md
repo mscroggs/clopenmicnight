@@ -15,5 +15,43 @@ for a ticket to a show - you can do so at any time by visiting
 A list of all our past shows, with links to line-ups can be found [here](list.md).
 
 Sign up below to receive an email reminder shortly before our next event.
+
+## Line-up
+{% include _person.html
+    img="/assets/img/people/sophie-maclean.jpg"
+    name="Sophie Maclean"
+    twitter="sophiethemathmo"
+    pronouns="she/her"
+%}
+
+{% include _person.html
+    img="/assets/img/people/zoe-griffiths.jpg"
+    name="Zoe Griffiths"
+    twitter="ZoeLGriffiths"
+    pronouns="she/her"
+%}
+
+{% include _person.html
+    img="/assets/img/people/sam-hartburn.jpg"
+    name="Sam Hartburn"
+    twitter="SamHartburn"
+    pronouns="she/her"
+%}
+
+{% include _person.html
+    img="/assets/img/people/alison-kiddle.jpg"
+    name="Alison Kiddle"
+    twitter="alisonkiddle"
+    pronouns="they/them"
+%}
+
+{% include _person.html
+    img="/assets/img/people/ben-sparks.jpg"
+    name="Ben Sparks"
+    twitter="SparksMaths"
+    pronouns="he/him"
+%}
+
 <div class="sender-form-field" data-sender-form-id="ks7i2oxmaq7jqdqvszm" style="text-align:center"></div>
+
 
