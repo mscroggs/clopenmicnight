@@ -46,10 +46,10 @@ Sign up below to receive an email reminder shortly before our next event.
 %}
 
 {% include _person.html
-    img="/assets/img/people/ben-sparks.jpg"
-    name="Ben Sparks"
-    twitter="SparksMaths"
-    pronouns="he/him"
+    img="/assets/img/people/yolanda_temp.jpeg"
+    name="Yolanda Ohene"
+    twitter="Y_Ohene"
+    pronouns="she/her"
 %}
 
 <div class="sender-form-field" data-sender-form-id="ks7i2oxmaq7jqdqvszm" style="text-align:center"></div>
