@@ -31,6 +31,9 @@ Sign up below to receive an email reminder shortly before our next event.
     name="Zoe Griffiths"
     twitter="ZoeLGriffiths"
     pronouns="she/her"
+    about="Zoe is a mathematician who travels the UK and internationally giving talks and workshops in schools (through Think Maths), at science festivals, teacher conferences and at comedy nights. Zoe regularly gives talks at Maths Inspiration events, and has talked about maths in places ranging from the Cheltenham Science Festival to BBC Radio 4. Before entering the world of maths communication, Zoe worked as a classroom maths teacher and is still a teacher at heart."
+    website="https://zoelgriffiths.co.uk/"
+    website2="https://think-maths.co.uk"
 %}
 
 {% include _person.html
