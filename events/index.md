@@ -38,6 +38,9 @@ Sign up below to receive an email reminder shortly before our next event.
     name="Sam Hartburn"
     twitter="SamHartburn"
     pronouns="she/her"
+    about="Sam is a freelance writer, copy-editor, proofreader, spreadsheet wizard, checker of hard sums and all-round provider of maths-related services. She works on textbooks, puzzle books, YouTube videos, online school resources and anything else that contains mathematical content. When she’s not doing serious maths she likes to have fun with mathematical poetry and songs. She has also been known to bake mathematical cakes."
+    website="https://samhartburn.co.uk"
+    website2="https://qbfproofreading.co.uk"
 %}
 
 {% include _person.html

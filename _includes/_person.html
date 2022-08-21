@@ -7,6 +7,7 @@
 <ul class='sociallist'>
 {% if {{include.pronouns}} %}<li><i class="fa fa-user" aria-hidden="true"></i> {{include.pronouns}}</li>{% endif %}
 {% if {{include.website}} %}<li><a href="{{include.website}}"><i class="fa fa-internet-explorer" aria-hidden="true"></i> {% if {{include.website_text}} %}{{include.website_text}}{% else %}{{ include.website | split:"//" | last}}{% endif %}</a></li>{% endif %}
+{% if {{include.website2}} %}<li><a href="{{include.website2}}"><i class="fa fa-internet-explorer" aria-hidden="true"></i> {% if {{include.website2_text}} %}{{include.website2_text}}{% else %}{{ include.website2 | split:"//" | last}}{% endif %}</a></li>{% endif %}
 {% if {{include.email}} %}<li><a href="mailto:{{include.email}}"><i class="fa fa-envelope-o" aria-hidden="true"></i> {{include.email}}</a></li>{% endif %}
 {% if {{include.github}} %}<li><a href="https://github.com/{{include.github}}"><i class="fa fa-github" aria-hidden="true"></i> {{include.github}}</a></li>{% endif %}
 {% if {{include.twitter}} %}<li><a href="https://twitter.com/{{include.twitter}}"><i class="fa fa-twitter" aria-hidden="true"></i> @{{include.twitter}}</a></li>{% endif %}
