@@ -20,6 +20,8 @@ Sign up below to receive an email reminder shortly before our next event.
 {% include _person.html
     img="/assets/img/people/sophie-maclean.jpg"
     name="Sophie Maclean"
+    about="Sophie is a mathematician who talks about maths to school children all over the UK and beyond. She is also one of the editors of Chalkdust Magazine."
+    website="https://sophiethemathmo.wordpress.com/"
     twitter="sophiethemathmo"
     pronouns="she/her"
 %}
@@ -46,9 +48,11 @@ Sign up below to receive an email reminder shortly before our next event.
 %}
 
 {% include _person.html
-    img="/assets/img/people/yolanda_temp.jpeg"
+    img="/assets/img/people/yolanda-ohene.jpg"
     name="Yolanda Ohene"
+    about="Yolanda is a neuroimaging scientist at The University of Manchester, where she develops new MRI techniques to image the brain. Yolanda also gives talks at schools, music and science festivals (like GreenMan festival and Cheltenham Science festival) and has featured on the BBC Tomorrow's World Live. When she’s not doing science, Yolanda is either roller-skating or dancing at random locations across Manchester."
     twitter="Y_Ohene"
+    website="https://linktr.ee/y_ohene"
     pronouns="she/her"
 %}
 
