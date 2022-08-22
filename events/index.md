@@ -51,6 +51,8 @@ Sign up below to receive an email reminder shortly before our next event.
     name="Alison Kiddle"
     twitter="alisonkiddle"
     pronouns="they/them"
+    about="Alison is a maths communicator and educator whose mission in life is to encourage other people to enjoy maths at least a tenth of how much they do. When not doing maths, they are usually busy filling their house with half-finished craft projects. Their hobby is having hobbies."
+    website="https://alisonkiddle.co.uk/"
 %}
 
 {% include _person.html
