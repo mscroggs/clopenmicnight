@@ -8,8 +8,8 @@ mathematicians, performers and maths communicators bringing you a
 random<a href='#footnote2'>**</a> selection of comedy, music, art, demos and puzzles to
 share and showcase their love of mathematics.
 
-**Clopen Mic Night #3: Clopen Sept** will take place on **Tuesday 13th September** from **8-9pm** (UK time).
-The show will be available to watch live for free and a recording will be available to watch for a limited time.
+[**Clopen Mic Night #3: Clopen Sept**](https://www.youtube.com/watch?v=YOARCPdWgog) will take place on **Tuesday 13th September** from **8-9pm** (UK time).
+The show will be available to watch live (free or pay-what-you-can) and a recording will be available to watch for a limited time.
 More details and the line-up can be found on [the events page](events/index.md).
 
 Clopen Mic Night happens on a semi-regular basis, live on YouTube, with audience interaction in the YouTube Live Chat and a selection of four 
