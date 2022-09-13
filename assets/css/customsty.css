@@ -190,8 +190,8 @@ img#mic {
 body {
   font-family: sans-serif;
   color: #000000;
-  background: url("/assets/img/bg_unsat.png");
-  background-size: 200px;
+  background: url("/assets/img/bg_more_unsat.png");
+  background-size: 900px;
 }
 
 #main_content_wrap {
