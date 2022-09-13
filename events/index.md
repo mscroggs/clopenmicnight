@@ -64,6 +64,6 @@ Sign up below to receive an email reminder shortly before our next event.
     website2="https://qbfproofreading.co.uk"
 %}
 
-    <div class="sender-form-field" data-sender-form-id="ks7i2oxmaq7jqdqvszm" style="text-align:center"></div>
+<div class="sender-form-field" data-sender-form-id="ks7i2oxmaq7jqdqvszm" style="text-align:center"></div>
 
 
