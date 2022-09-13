@@ -82,6 +82,9 @@ function process_key(keyName){
     setInterval(next_slide_please, 16000)
     started = true
   }
+  if(keyName == "h"){
+    document.getElementById("zoeinfo").style.display = "none"
+  }
   if(keyName == "t"){
     document.getElementById("default_view").style.display = "none"
     document.getElementById("date_view").style.display = "block"
