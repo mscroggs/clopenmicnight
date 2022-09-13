@@ -51,6 +51,7 @@ Sign up below to receive an email reminder shortly before our next event.
     about="Ben is a mathematician, musician, and public speaker. He gives maths talks and workshops around the world, to students, teachers, and the general public."
     twitter="SparksMaths"
     website="https://bensparks.co.uk"
+    youtube="SparksMaths"
     pronouns="he/him"
 %}
 
