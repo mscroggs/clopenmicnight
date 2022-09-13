@@ -37,16 +37,6 @@ Sign up below to receive an email reminder shortly before our next event.
 %}
 
 {% include _person.html
-    img="/assets/img/people/sam-hartburn.jpg"
-    name="Sam Hartburn"
-    twitter="SamHartburn"
-    pronouns="she/her"
-    about="Sam is a freelance writer, copy-editor, proofreader, spreadsheet wizard, checker of hard sums and all-round provider of maths-related services. She works on textbooks, puzzle books, YouTube videos, online school resources and anything else that contains mathematical content. When she’s not doing serious maths she likes to have fun with mathematical poetry and songs. She has also been known to bake mathematical cakes."
-    website="https://samhartburn.co.uk"
-    website2="https://qbfproofreading.co.uk"
-%}
-
-{% include _person.html
     img="/assets/img/people/alison-kiddle.jpg"
     name="Alison Kiddle"
     twitter="alisonkiddle"
@@ -56,14 +46,24 @@ Sign up below to receive an email reminder shortly before our next event.
 %}
 
 {% include _person.html
-    img="/assets/img/people/yolanda-ohene.jpg"
-    name="Yolanda Ohene"
-    about="Yolanda is a neuroimaging scientist at The University of Manchester, where she develops new MRI techniques to image the brain. Yolanda also gives talks at schools, music and science festivals (like GreenMan festival and Cheltenham Science festival) and has featured on the BBC Tomorrow's World Live. When she’s not doing science, Yolanda is either roller-skating or dancing at random locations across Manchester."
-    twitter="Y_Ohene"
-    website="https://linktr.ee/y_ohene"
-    pronouns="she/her"
+    img="assets/img/people/ben-sparks.jpg"
+    name="Ben Sparks"
+    about="Ben is a mathematician, musician, and public speaker. He gives maths talks and workshops around the world, to students, teachers, and the general public."
+    twitter="SparksMaths"
+    website="https://bensparks.co.uk"
+    pronouns="he/him"
 %}
 
-<div class="sender-form-field" data-sender-form-id="ks7i2oxmaq7jqdqvszm" style="text-align:center"></div>
+{% include _person.html
+    img="/assets/img/people/sam-hartburn.jpg"
+    name="Sam Hartburn"
+    twitter="SamHartburn"
+    pronouns="she/her"
+    about="Sam is a freelance writer, copy-editor, proofreader, spreadsheet wizard, checker of hard sums and all-round provider of maths-related services. She works on textbooks, puzzle books, YouTube videos, online school resources and anything else that contains mathematical content. When she’s not doing serious maths she likes to have fun with mathematical poetry and songs. She has also been known to bake mathematical cakes."
+    website="https://samhartburn.co.uk"
+    website2="https://qbfproofreading.co.uk"
+%}
+
+    <div class="sender-form-field" data-sender-form-id="ks7i2oxmaq7jqdqvszm" style="text-align:center"></div>
 
 
