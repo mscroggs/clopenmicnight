@@ -3,8 +3,8 @@ title: "Events"
 permalink: /events
 ---
 
-[**Clopen Mic Night #3: Clopen Sept**](https://www.youtube.com/watch?v=YOARCPdWgog) will take place on **Tuesday 13th September** from **8-9pm** (UK time).
-The show will be available to watch on the [Clopen Mic YouTube channel](https://www.youtube.com/watch?v=YOARCPdWgog), and a recording of the show will be available to watch for a limited time.
+[**Clopen Mic Night #3: Clopen Sept**](https://www.youtube.com/watch?v=YOARCPdWgog) took place on **Tuesday 13th September** from **8-9pm** (UK time).
+A recording of the show is available to watch for a limited time on the [Clopen Mic YouTube channel](https://www.youtube.com/watch?v=YOARCPdWgog).
 
 The show is free to watch, but we support our performers and pay our behind-the-scenes team 
 for their work, so if you'd like to make a contribution - for example, as much as you'd pay 
