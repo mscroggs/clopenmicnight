@@ -8,9 +8,9 @@ mathematicians, performers and maths communicators bringing you a
 random<a href='#footnote2'>**</a> selection of comedy, music, art, demos and puzzles to
 share and showcase their love of mathematics.
 
-[**Clopen Mic Night #3: Clopen Sept**](https://www.youtube.com/watch?v=YOARCPdWgog) took place on **Tuesday 13th September**.
-A recording of the show is available to watch for a limited time at [youtu.be/YOARCPdWgog](https://www.youtube.com/watch?v=YOARCPdWgog).
-More details and the line-up can be found on [the events page](events/index.md).
+**Clopen Mic Night #4: Clopen Winterval: "Midnight" Maths** will take place on **Tuesday 19th December**.
+You will be able to watch the show live or watch a recording of the show is available to watch for a limited time on the [Clopen Mic YouTube channel](https://www.youtube.com/watch?v=YOARCPdWgog).
+More details can be found on [the events page](events/index.md).
 
 Clopen Mic Night happens on a semi-regular basis, live on YouTube, with audience interaction in the YouTube Live Chat and a selection of four 
 acts to enjoy. The [first Clopen Mic Night](events/2021-08-26.md) took place as part of the 2021 Talking Maths in 
