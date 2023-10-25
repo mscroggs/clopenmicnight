@@ -26,7 +26,7 @@ layout: winter
     name="Sophie Maclean"
     about="Sophie is a mathematician who talks about maths to school children all over the UK and beyond. She is also one of the editors of Chalkdust Magazine."
     website="https://sophiethemathmo.wordpress.com/"
-    twitter="sophiethemathmo"
+    twitter="sophiemacmaths"
     pronouns="she/her"
 %}
 
@@ -36,6 +36,7 @@ layout: winter
     about="Matthew is a postdoctoral researcher at University College London and one of the editors of Chalkdust Magazine."
     website="https://mscroggs.co.uk"
     twitter="mscroggs"
+    mastodon="mscroggs@mathstodon.xyz"
     github="mscroggs"
     pronouns="he/him"
 %}
@@ -55,6 +56,7 @@ layout: winter
     name="Katie Steckles"
     about="Katie is a mathematician based in Manchester, who talks about mathematics at universities, schools events, festivals, on BBC radio and TV, in books and on the internet."
     twitter="stecks"
+    mastodon="stecks@mathstodon.xyz"
     website="https://katiesteckles.co.uk"
     youtube="KatieSteckles"
     pronouns="she/her"
