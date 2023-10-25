@@ -5,7 +5,7 @@
 {{include.about}}
 
 <ul class='sociallist'>
-{% if {{include.pronouns}} %}<li><i class="fa-solid fa-user" aria-hidden="true"></i> {{include.pronouns}}</li>{% endif %}
+{% if {{include.pronouns}} %}<li><i class="fa-solid fa-circle-user" aria-hidden="true"></i> {{include.pronouns}}</li>{% endif %}
 {% if {{include.website}} %}<li><a href="{{include.website}}"><i class="fa-brands fa-internet-explorer" aria-hidden="true"></i> {% if {{include.website_text}} %}{{include.website_text}}{% else %}{{ include.website | split:"//" | last}}{% endif %}</a></li>{% endif %}
 {% if {{include.website2}} %}<li><a href="{{include.website2}}"><i class="fa-brands fa-internet-explorer" aria-hidden="true"></i> {% if {{include.website2_text}} %}{{include.website2_text}}{% else %}{{ include.website2 | split:"//" | last}}{% endif %}</a></li>{% endif %}
 {% if {{include.email}} %}<li><a href="mailto:{{include.email}}"><i class="fa-brands fa-envelope-o" aria-hidden="true"></i> {{include.email}}</a></li>{% endif %}
