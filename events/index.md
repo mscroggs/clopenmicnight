@@ -1,6 +1,7 @@
 ---
 title: "Events"
 permalink: /events
+layout: winter
 ---
 
 [**Clopen Mic Night #4: Chestnuts Roasting on a Clopen Fire**](/events/2023-12-19) will take place on **Tuesday 19th December** from **8-9pm** (UK time).

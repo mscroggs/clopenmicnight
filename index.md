@@ -1,6 +1,7 @@
 ---
 title: ""
 permalink: /
+layout: winter
 ---
 
 Clopen<a href='#footnote1'>*</a> Mic Night is a mathematical variety show featuring 

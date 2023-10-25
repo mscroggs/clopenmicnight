@@ -1,6 +1,7 @@
 ---
 title: Past events
 permalink: /events/list
+layout: winter
 ---
 
 - [Clopen Mic Night #1 (26th August 2021)](2021-08-26.md)
