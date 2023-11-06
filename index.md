@@ -10,7 +10,7 @@ random<a href='#footnote2'>**</a> selection of comedy, music, art, demos and puz
 share and showcase their love of mathematics.
 
 [**Clopen Mic Night #4: Chestnuts Roasting on a Clopen Fire**](/events/2023-12-19) will take place on **Tuesday 19th December**.
-You will be able to watch the show live or watch a recording of the show is available to watch for a limited time on the [Clopen Mic YouTube channel](https://www.youtube.com/watch?v=YOARCPdWgog).
+You will be able to watch the show live or watch a recording of the show for a limited time on the [Clopen Mic YouTube channel](https://www.youtube.com/watch?v=YOARCPdWgog).
 More details can be found on [the events page](events/index.md).
 
 Clopen Mic Night happens on a semi-regular basis, live on YouTube, with audience interaction in the YouTube Live Chat and a selection of four 
