@@ -5,7 +5,7 @@ layout: winter
 ---
 
 [**Clopen Mic Night #4: Chestnuts Roasting on a Clopen Fire**](/events/2023-12-19) will take place on **Tuesday 19th December** from **8-9pm** (UK time).
-You will be able to watch the show live or watch a recording of the show for a limited time on the [Clopen Mic YouTube channel](https://www.youtube.com/watch?v=YOARCPdWgog).
+You will be able to watch the show live or watch a recording of the show for a limited time on the [Clopen Mic YouTube channel](https://www.youtube.com/watch?v=EVXsMDFH7eQ).
 
 The line-up for Clopen Mic Night #4 event will be posted here closer to the time.
 
