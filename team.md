@@ -24,7 +24,7 @@ layout: winter
 {% include _person.html
     img="/assets/img/people/ayliean-macdonald.jpg"
     name="Ayliean MacDonald"
-    about="Ayliean MacDonald is based in Dundee, Scotland. In her spare time, she looks for creative ways to explore, explain and spark interest in maths, and produces YouTube videos and zines to share mathematical ideas. Ayliean has cool tattoos of fractals, and her videos often involve intricate mathematical drawings, paintings and music. She has also presented videos for the Numberphile channel."
+    about="Ayliean MacDonald is a freelance mathematician, mathemactivist and craftamatician who delivers mathematical workshops and activities, creates maths art, and makes maths videos for TikTok. She is the MathsCity Community Mathematician for 2023, hosts weekly livestreams on Simon Singh’s Parallel and speaks at events including Maths Inspiration."
     website="https://linktr.ee/Ayliean"
     twitter="ayliean"
     youtube="Ayliean"
