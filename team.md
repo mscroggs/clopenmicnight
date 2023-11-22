@@ -22,6 +22,16 @@ layout: winter
 %}
 
 {% include _person.html
+    img="/assets/img/people/ayliean-macdonald.jpg"
+    name="Ayliean MacDonald"
+    about="Ayliean MacDonald is based in Dundee, Scotland. In her spare time, she looks for creative ways to explore, explain and spark interest in maths, and produces YouTube videos and zines to share mathematical ideas. Ayliean has cool tattoos of fractals, and her videos often involve intricate mathematical drawings, paintings and music. She has also presented videos for the Numberphile channel."
+    website="https://linktr.ee/Ayliean"
+    twitter="ayliean"
+    youtube="Ayliean"
+    pronouns="she/her"
+%}
+
+{% include _person.html
     img="assets/img/people/sophie-maclean.jpg"
     name="Sophie Maclean"
     about="Sophie is a mathematician who talks about maths to school children all over the UK and beyond. She is also one of the editors of Chalkdust Magazine."
