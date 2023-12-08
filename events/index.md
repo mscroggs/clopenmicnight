@@ -26,7 +26,6 @@ A list of all our past shows, with links to line-ups can be found [here](list.md
     pronouns="she/her"
 %}
 
-
 {% include _person.html
     img="/assets/img/people/luna-kirkby.jpg"
     name="Luna Kirkby"
