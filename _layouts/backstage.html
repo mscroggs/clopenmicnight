@@ -1,0 +1,26 @@
+{% include _head.html %}
+<style type='text/css'>
+#header_wrap, #footer_wrap, #site-nav {
+  -moz-transform: scale(-1, 1);
+  -webkit-transform: scale(-1, 1);
+  -o-transform: scale(-1, 1);
+  -ms-transform: scale(-1, 1);
+  transform: scale(-1, 1);
+}
+
+#snow {z-index:2!important}
+</style>
+<body>
+{% include _header.html %}
+
+<!-- MAIN CONTENT -->
+<div id="main_content_wrap" class="outer">
+  <section id="main_content" class="inner">
+    {{ content }}
+  </section>
+</div>
+
+{% include _footer.html %}
+
+</body>
+</html>

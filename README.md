@@ -17,3 +17,7 @@ Then running:
 ```bash
 bundle exec jekyll serve
 ```
+
+Font Awesome
+============
+This repository includes Font Awesome 6.4.2, which is released under the [Font Awesome License](assets/fontawesome/LICENSE.txt).

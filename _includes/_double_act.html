@@ -7,25 +7,25 @@
 <div style='display:grid'>
 <ul class='sociallist' style='grid-area: 1 / 1 / 1 / 1'>
 <li><em>{{include.name}}</em></li>
-{% if {{include.pronouns}} %}<li><i class="fa fa-user" aria-hidden="true"></i> {{include.pronouns}}</li>{% endif %}
-{% if {{include.website}} %}<li><a href="{{include.website}}"><i class="fa fa-internet-explorer" aria-hidden="true"></i> {% if {{include.website_text}} %}{{include.website_text}}{% else %}{{ include.website | split:"//" | last}}{% endif %}</a></li>{% endif %}
-{% if {{include.email}} %}<li><a href="mailto:{{include.email}}"><i class="fa fa-envelope-o" aria-hidden="true"></i> {{include.email}}</a></li>{% endif %}
-{% if {{include.github}} %}<li><a href="https://github.com/{{include.github}}"><i class="fa fa-github" aria-hidden="true"></i> {{include.github}}</a></li>{% endif %}
-{% if {{include.twitter}} %}<li><a href="https://twitter.com/{{include.twitter}}"><i class="fa fa-twitter" aria-hidden="true"></i> @{{include.twitter}}</a></li>{% endif %}
-{% if {{include.youtube}} %}<li><a href="https://youtube.com/{{include.youtube}}"><i class="fa fa-youtube" aria-hidden="true"></i> {{include.youtube}}</a></li>{% endif %}
-{% if {{include.etsy}} %}<li><a href="https://etsy.com/uk/shop/{{include.etsy}}"><i class="fa fa-etsy" aria-hidden="true"></i> {{include.etsy}}</a></li>{% endif %}
-{% if {{include.instagram}} %}<li><a href="https://www.instagram.com/{{include.instagram}}"><i class="fa fa-instagram" aria-hidden="true"></i> {{include.instagram}}</a></li>{% endif %}
+{% if {{include.pronouns}} %}<li><i class="fa-solid fa-circle-user" aria-hidden="true"></i> {{include.pronouns}}</li>{% endif %}
+{% if {{include.website}} %}<li><a href="{{include.website}}"><i class="fa-brands fa-internet-explorer" aria-hidden="true"></i> {% if {{include.website_text}} %}{{include.website_text}}{% else %}{{ include.website | split:"//" | last}}{% endif %}</a></li>{% endif %}
+{% if {{include.email}} %}<li><a href="mailto:{{include.email}}"><i class="fa-brands fa-envelope-o" aria-hidden="true"></i> {{include.email}}</a></li>{% endif %}
+{% if {{include.github}} %}<li><a href="https://github.com/{{include.github}}"><i class="fa-brands fa-github" aria-hidden="true"></i> {{include.github}}</a></li>{% endif %}
+{% if {{include.twitter}} %}<li><a href="https://twitter.com/{{include.twitter}}"><i class="fa-brands fa-twitter" aria-hidden="true"></i> @{{include.twitter}}</a></li>{% endif %}
+{% if {{include.youtube}} %}<li><a href="https://youtube.com/{{include.youtube}}"><i class="fa-brands fa-youtube" aria-hidden="true"></i> {{include.youtube}}</a></li>{% endif %}
+{% if {{include.etsy}} %}<li><a href="https://etsy.com/uk/shop/{{include.etsy}}"><i class="fa-brands fa-etsy" aria-hidden="true"></i> {{include.etsy}}</a></li>{% endif %}
+{% if {{include.instagram}} %}<li><a href="https://www.instagram.com/{{include.instagram}}"><i class="fa-brands fa-instagram" aria-hidden="true"></i> {{include.instagram}}</a></li>{% endif %}
 </ul>
 <ul class='sociallist' style='grid-area: 1 / 2 / 1 / 2'>
 <li><em>{{include.name2}}</em></li>
-{% if {{include.pronouns2}} %}<li><i class="fa fa-user" aria-hidden="true"></i> {{include.pronouns2}}</li>{% endif %}
-{% if {{include.website2}} %}<li><a href="{{include.website2}}"><i class="fa fa-internet-explorer" aria-hidden="true"></i> {% if {{include.website_text2}} %}{{include.website_text2}}{% else %}{{ include.website2 | split:"//" | last}}{% endif %}</a></li>{% endif %}
-{% if {{include.email2}} %}<li><a href="mailto:{{include.email2}}"><i class="fa fa-envelope-o" aria-hidden="true"></i> {{include.email2}}</a></li>{% endif %}
-{% if {{include.github2}} %}<li><a href="https://github.com/{{include.github2}}"><i class="fa fa-github" aria-hidden="true"></i> {{include.github2}}</a></li>{% endif %}
-{% if {{include.twitter2}} %}<li><a href="https://twitter.com/{{include.twitter2}}"><i class="fa fa-twitter" aria-hidden="true"></i> @{{include.twitter2}}</a></li>{% endif %}
-{% if {{include.youtube2}} %}<li><a href="https://youtube.com/{{include.youtube2}}"><i class="fa fa-youtube" aria-hidden="true"></i> {{include.youtube2}}</a></li>{% endif %}
-{% if {{include.etsy2}} %}<li><a href="https://etsy.com/uk/shop/{{include.etsy2}}"><i class="fa fa-etsy" aria-hidden="true"></i> {{include.etsy2}}</a></li>{% endif %}
-{% if {{include.instagram2}} %}<li><a href="https://www.instagram.com/{{include.instagram2}}"><i class="fa fa-instagram" aria-hidden="true"></i> {{include.instagram2}}</a></li>{% endif %}
+{% if {{include.pronouns2}} %}<li><i class="fa-solid fa-circle-user" aria-hidden="true"></i> {{include.pronouns2}}</li>{% endif %}
+{% if {{include.website2}} %}<li><a href="{{include.website2}}"><i class="fa-brands fa-internet-explorer" aria-hidden="true"></i> {% if {{include.website_text2}} %}{{include.website_text2}}{% else %}{{ include.website2 | split:"//" | last}}{% endif %}</a></li>{% endif %}
+{% if {{include.email2}} %}<li><a href="mailto:{{include.email2}}"><i class="fa-brands fa-envelope-o" aria-hidden="true"></i> {{include.email2}}</a></li>{% endif %}
+{% if {{include.github2}} %}<li><a href="https://github.com/{{include.github2}}"><i class="fa-brands fa-github" aria-hidden="true"></i> {{include.github2}}</a></li>{% endif %}
+{% if {{include.twitter2}} %}<li><a href="https://twitter.com/{{include.twitter2}}"><i class="fa-brands fa-twitter" aria-hidden="true"></i> @{{include.twitter2}}</a></li>{% endif %}
+{% if {{include.youtube2}} %}<li><a href="https://youtube.com/{{include.youtube2}}"><i class="fa-brands fa-youtube" aria-hidden="true"></i> {{include.youtube2}}</a></li>{% endif %}
+{% if {{include.etsy2}} %}<li><a href="https://etsy.com/uk/shop/{{include.etsy2}}"><i class="fa-brands fa-etsy" aria-hidden="true"></i> {{include.etsy2}}</a></li>{% endif %}
+{% if {{include.instagram2}} %}<li><a href="https://www.instagram.com/{{include.instagram2}}"><i class="fa-brands fa-instagram" aria-hidden="true"></i> {{include.instagram2}}</a></li>{% endif %}
 </ul>
 </div>
 </div>
