@@ -4,6 +4,8 @@ permalink: /
 layout: winter
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EVXsMDFH7eQ?si=h_zAOdHaZJ9ewDRo" title="Clopen Mic Night 4 on YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Clopen<a href='#footnote1'>*</a> Mic Night is a mathematical variety show featuring 
 mathematicians, performers and maths communicators bringing you a
 random<a href='#footnote2'>**</a> selection of comedy, music, art, demos and puzzles to
