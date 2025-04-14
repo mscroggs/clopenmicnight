@@ -5,7 +5,7 @@ layout: winter
 ---
 
 [**Clopen Mic Night #5: The Power of Five**](/events/2023-12-19) will take place on **Thursday 1st May** from **8-9pm** (UK time).
-You will be able to watch the show live or watch a recording of the show for a limited time on the [Clopen Mic YouTube channel](https://www.youtube.com/watch?v=EVXsMDFH7eQ).
+You will be able to watch the show live or watch a recording of the show for a limited time on the [Clopen Mic YouTube channel](https://youtube.com/live/JVu2CG6kDVE).
 
 The show is free to watch, but we support our performers and pay our behind-the-scenes team 
 for their work, so if you'd like to make a contribution - for example, as much as you'd pay 
@@ -39,24 +39,21 @@ A list of all our past shows, with links to line-ups can be found [here](list.md
 {% include _person.html
     img="/assets/img/people/faceholder.png"
     name="Christopher James"
-    about=""
-    website=""
-    twitter=""
-    mastodon=""
+    about="More information shortly!"
     pronouns="he/him"
 %}
 
 {% include _person.html
-    img="/assets/img/people/faceholder.png"
+    img="/assets/img/people/pseudorandom-ensemble.jpg"
     name="Pseudorandom Ensemble"
-    about=""
-    website=""
-    twitter=""
+    about="Pseudorandom Ensemble is a mathematically-inspired musical combo who are experimenting with the form of online collaborative musical performances and exploring what it means to be normal. Our members change from show to show; at Clopen Mic Night you’ll see Colin Beveridge, Gavan Fantom, Lucy Rycroft-Smith, Martin Harris and Sam Hartburn. Between us we have 2 PhDs, 6 degrees (unless you count PhDs as degrees as well, in which case it's 8), 7 pets (unless you count robot vacuum cleaners) and an unverified number of piano keys. Counting things is hard."
 %}
 
 {% include _person.html
     img="/assets/img/people/faceholder.png"
-    name="TBC"
+    name="Yolanda Ohene"
+    about="More information shortly!"
+    pronouns="she/her"
 
 %}
 
