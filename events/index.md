@@ -46,6 +46,10 @@ A list of all our past shows, with links to line-ups can be found [here](list.md
     img="/assets/img/people/pseudorandom-ensemble.jpeg"
     name="Pseudorandom Ensemble"
     about="Pseudorandom Ensemble is a mathematically-inspired musical combo who are experimenting with the form of online collaborative musical performances and exploring what it means to be normal. Our members change from show to show; at Clopen Mic Night you’ll see Colin Beveridge, Gavan Fantom, Lucy Rycroft-Smith, Martin Harris and Sam Hartburn. Between us we have 2 PhDs, 6 degrees (unless you count PhDs as degrees as well, in which case it's 8), 7 pets (unless you count robot vacuum cleaners) and an unverified number of piano keys. Counting things is hard."
+    website="https://www.pseudorandom-ensemble.com/"
+    youtube="https://www.youtube.com/@PRensemble"
+    mastodon="https://mathstodon.xyz/@PseudoRandomEnsemble "
+    bluesky="https://bsky.app/profile/prensemble.bsky.social"
 %}
 
 {% include _person.html
