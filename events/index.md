@@ -1,10 +1,9 @@
 ---
 title: "Events"
 permalink: /events
-layout: winter
 ---
 
-[**Clopen Mic Night #5: The Power of Five**](/events/2023-12-19) will take place on **Thursday 1st May** from **8-9pm** (UK time).
+[**Clopen Mic Night #5: The Power of Five**](/events/2025-05-01) will take place on **Thursday 1st May** from **8-9pm** (UK time).
 You will be able to watch the show live or watch a recording of the show for a limited time on the [Clopen Mic YouTube channel](https://youtube.com/live/JVu2CG6kDVE).
 
 The show is free to watch, but we support our performers and pay our behind-the-scenes team 
@@ -17,14 +16,14 @@ A list of all our past shows, with links to line-ups can be found [here](list.md
 
 ## Line-up for Clopen Mic Night #5: The Power of Five
 {% include _person.html
-    img="/assets/img/people/katie-steckles.jpg"
-    name="Katie Steckles"
-    about="Katie Steckles is a mathematician based in Manchester, who gives talks and workshops and writes about mathematics. She finished her PhD in 2011, and since then has talked about maths in schools, at science festivals, on BBC radio and TV, at music festivals, as part of theatre shows and on the internet."
-    twitter="stecks"
-    mastodon="stecks@mathstodon.xyz"
-    website="https://katiesteckles.co.uk"
+    img="/assets/img/people/sophie-maclean.jpg"
+    name="Sophie Maclean"
+    about="Sophie is a mathematician who talks about maths to school children all over the UK and beyond. She is also one of the editors of Chalkdust Magazine."
+    website="https://sophiethemathmo.wordpress.com/"
+    twitter="sophiemacmaths"
     pronouns="she/her"
 %}
+
 
 {% include _person.html
     img="/assets/img/people/mats-vermeeren.jpeg"
@@ -44,7 +43,7 @@ A list of all our past shows, with links to line-ups can be found [here](list.md
 %}
 
 {% include _person.html
-    img="/assets/img/people/pseudorandom-ensemble.jpg"
+    img="/assets/img/people/pseudorandom-ensemble.jpeg"
     name="Pseudorandom Ensemble"
     about="Pseudorandom Ensemble is a mathematically-inspired musical combo who are experimenting with the form of online collaborative musical performances and exploring what it means to be normal. Our members change from show to show; at Clopen Mic Night you’ll see Colin Beveridge, Gavan Fantom, Lucy Rycroft-Smith, Martin Harris and Sam Hartburn. Between us we have 2 PhDs, 6 degrees (unless you count PhDs as degrees as well, in which case it's 8), 7 pets (unless you count robot vacuum cleaners) and an unverified number of piano keys. Counting things is hard."
 %}
