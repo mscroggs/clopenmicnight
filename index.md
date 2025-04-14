@@ -12,7 +12,7 @@ random<a href='#footnote2'>**</a> selection of comedy, music, art, demos and puz
 share and showcase their love of mathematics.
 
 [**Clopen Mic Night #5: The Power of Five**](/events/2025-05-01) will take place on **Thursday 1st May 2025**, a.k.a 1/5/25, a.k.a 5&ordm;/5&sup1;/5&sup2;.
-You will be able to watch the show live or watch a recording of the show for a limited time on the [Clopen Mic YouTube channel](https://www.youtube.com/watch?v=EVXsMDFH7eQ).
+You will be able to watch the show live or watch a recording of the show for a limited time on the [Clopen Mic YouTube channel](https://youtube.com/live/JVu2CG6kDVE).
 More details can be found on [the events page](events/index.md).
 
 Clopen Mic Night happens on a semi-regular basis, live on YouTube, with audience interaction in the YouTube Live Chat and a selection of four 
