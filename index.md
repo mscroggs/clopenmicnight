@@ -12,7 +12,7 @@ mathematicians, performers and maths communicators bringing you a
 random<a href='#footnote2'>**</a> selection of comedy, music, art, demos and puzzles to
 share and showcase their love of mathematics.
 
-[**Clopen Mic Night #4: Chestnuts Roasting on a Clopen Fire**](/events/2023-12-19) took place on **Tuesday 19th December 2023**.
+[**Clopen Mic Night #5: The Power of Five**](/events/2023-12-19) will take place on **Thursday 1st May 2025**, aka 1/5/25.
 You will be able to watch the show live or watch a recording of the show for a limited time on the [Clopen Mic YouTube channel](https://www.youtube.com/watch?v=EVXsMDFH7eQ).
 More details can be found on [the events page](events/index.md).
 
