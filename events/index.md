@@ -20,7 +20,7 @@ A list of all our past shows, with links to line-ups can be found [here](list.md
     name="Sophie Maclean"
     about="Sophie is a mathematician who talks about maths to school children all over the UK and beyond. She is also one of the editors of Chalkdust Magazine."
     website="https://sophiethemathmo.wordpress.com/"
-    twitter="sophiemacmaths"
+    twitter="https://twitter.com/sophiemacmaths"
     pronouns="she/her"
 %}
 
@@ -31,14 +31,16 @@ A list of all our past shows, with links to line-ups can be found [here](list.md
     about="Mats Vermeeren is a research fellow and lecturer based at Loughborough University. His research sits in the intersection of mathematics and physics. He likes to talk about mathematics of everyday phenomena, such as ducks or rainbows, but also enjoys the challenge of unpacking more abstract topics."
     website="https://matsvermeeren.xyz"
     youtube="https://www.youtube.com/c/MatsVermeeren"
-    mastodon="mathstodon.xyz/@mathmats"
+    mastodon="https://mathstodon.xyz/@mathmats"
     pronouns="he/him"
 %}
 
 {% include _person.html
     img="/assets/img/people/faceholder.png"
     name="Christopher James"
-    about="More information shortly!"
+    about="Christopher James is a maths teacher in South London whose favourite programming language is Microsoft Excel. He is particularly interested in (ab)using technology to help people understand concepts, the History of Mathematics, and antique calculators."
+    website="https://teacherbowtie.wordpress.com/"
+    bluesky="https://bsky.app/profile/teacherbowtie.bsky.social"
     pronouns="he/him"
 %}
 
