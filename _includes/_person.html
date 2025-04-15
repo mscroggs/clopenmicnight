@@ -12,7 +12,7 @@
 {% if {{include.github}} %}<li><a href="https://github.com/{{include.github}}"><i class="fa-brands fa-github" aria-hidden="true"></i> {{include.github}}</a></li>{% endif %}
 {% if {{include.mastodon}} %}{% assign mdon = include.mastodon | split: "@" %}<li><a href="https://{{mdon.last}}/@{{mdon.first}}"><i class="fa-brands fa-mastodon" aria-hidden="true"></i> @{{include.mastodon}}</a></li>{% endif %}
 {% if {{include.twitter}} %}<li><a href="https://twitter.com/{{include.twitter}}"><i class="fa-brands fa-twitter" aria-hidden="true"></i> @{{include.twitter}}</a></li>{% endif %}
-{% if {{include.bluesky}} %}<li><a href="https://bsky.app/profile/{{include.twitter}}"><i class="fa-brands fa-bluesky" aria-hidden="true"></i> @{{include.bluesky}}</a></li>{% endif %}
+{% if {{include.bluesky}} %}<li><a href="https://bsky.app/profile/{{include.bluesky}}"><i class="fa-brands fa-bluesky" aria-hidden="true"></i> @{{include.bluesky}}</a></li>{% endif %}
 {% if {{include.youtube}} %}<li><a href="https://youtube.com/{{include.youtube}}"><i class="fa-brands fa-youtube" aria-hidden="true"></i> {{include.youtube}}</a></li>{% endif %}
 {% if {{include.etsy}} %}<li><a href="https://etsy.com/uk/shop/{{include.etsy}}"><i class="fa-brands fa-etsy" aria-hidden="true"></i> {{include.etsy}}</a></li>{% endif %}
 {% if {{include.instagram}} %}<li><a href="https://www.instagram.com/{{include.instagram}}"><i class="fa-brands fa-instagram" aria-hidden="true"></i> {{include.instagram}}</a></li>{% endif %}
