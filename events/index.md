@@ -36,7 +36,7 @@ A list of all our past shows, with links to line-ups can be found [here](list.md
 %}
 
 {% include _person.html
-    img="/assets/img/people/faceholder.png"
+    img="/assets/img/people/christopher-james.jpg"
     name="Christopher James"
     about="Christopher James is a maths teacher in South London whose favourite programming language is Microsoft Excel. He is particularly interested in (ab)using technology to help people understand concepts, the History of Mathematics, and antique calculators."
     website="https://teacherbowtie.wordpress.com/"
