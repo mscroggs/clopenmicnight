@@ -20,7 +20,7 @@ A list of all our past shows, with links to line-ups can be found [here](list.md
     name="Sophie Maclean"
     about="Sophie is a mathematician who talks about maths to school children all over the UK and beyond. She is also one of the editors of Chalkdust Magazine."
     website="https://sophiethemathmo.wordpress.com/"
-    twitter="https://twitter.com/sophiemacmaths"
+    twitter="sophiemacmaths"
     pronouns="she/her"
 %}
 
@@ -40,7 +40,7 @@ A list of all our past shows, with links to line-ups can be found [here](list.md
     name="Christopher James"
     about="Christopher James is a maths teacher in South London whose favourite programming language is Microsoft Excel. He is particularly interested in (ab)using technology to help people understand concepts, the History of Mathematics, and antique calculators."
     website="https://teacherbowtie.wordpress.com/"
-    bluesky="https://bsky.app/profile/teacherbowtie.bsky.social"
+    bluesky="teacherbowtie.bsky.social"
     pronouns="he/him"
 %}
 
@@ -51,7 +51,7 @@ A list of all our past shows, with links to line-ups can be found [here](list.md
     website="https://www.pseudorandom-ensemble.com/"
     youtube="https://www.youtube.com/@PRensemble"
     mastodon="PseudoRandomEnsemble@mathstodon.xyz"
-    bluesky="https://bsky.app/profile/prensemble.bsky.social"
+    bluesky="prensemble.bsky.social"
 %}
 
 {% include _person.html
