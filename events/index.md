@@ -55,7 +55,7 @@ A list of all our past shows, with links to line-ups can be found [here](list.md
 %}
 
 {% include _person.html
-    img="/assets/img/people/faceholder.png"
+    img="/assets/img/people/yolanda-ohene.jpg"
     name="Yolanda Ohene"
     about="More information shortly!"
     pronouns="she/her"
