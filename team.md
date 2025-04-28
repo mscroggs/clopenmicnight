@@ -1,7 +1,6 @@
 ---
 title: The Team
 permalink: /team
-layout: winter
 ---
 
 {% include _person.html
