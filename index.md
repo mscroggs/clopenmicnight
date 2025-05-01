@@ -3,16 +3,16 @@ title: ""
 permalink: /
 ---
 
-<!--<div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EVXsMDFH7eQ?si=h_zAOdHaZJ9ewDRo" title="Clopen Mic Night 4 on YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>-->
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/live/JVu2CG6kDVE" title="Clopen Mic Night 5 on YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 Clopen<a href='#footnote1'>*</a> Mic Night is a mathematical variety show featuring 
 mathematicians, performers and maths communicators bringing you a
 random<a href='#footnote2'>**</a> selection of comedy, music, art, demos and puzzles to
 share and showcase their love of mathematics.
 
-[**Clopen Mic Night #5: The Power of Five**](/events/2025-05-01) will take place on **Thursday 1st May 2025**, a.k.a 1/5/25 a.k.a 5<sup>0</sup>/5<sup>1</sup>/5<sup>2</sup>, at 8-9pm (BST).
-You will be able to watch the show live or watch a recording of the show for a limited time on the [Clopen Mic YouTube channel](https://youtube.com/live/JVu2CG6kDVE).
+[**Clopen Mic Night #5: The Power of Five**](/events/2025-05-01) took place on **Thursday 1st May 2025**, a.k.a 1/5/25 a.k.a 5<sup>0</sup>/5<sup>1</sup>/5<sup>2</sup>, at 8-9pm (BST).
+You can watch a recording of the show for a limited time on the [Clopen Mic YouTube channel](https://youtube.com/live/JVu2CG6kDVE).
 More details can be found on [the events page](events/index.md).
 
 Clopen Mic Night happens on a semi-regular basis, live on YouTube, with audience interaction in the YouTube Live Chat and a selection of four 

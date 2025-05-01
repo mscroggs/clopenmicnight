@@ -3,8 +3,8 @@ title: "Events"
 permalink: /events
 ---
 
-[**Clopen Mic Night #5: The Power of Five**](/events/2025-05-01) will take place on **Thursday 1st May** from **8-9pm** (UK time).
-You will be able to watch the show live or watch a recording of the show for a limited time on the [Clopen Mic YouTube channel](https://youtube.com/live/JVu2CG6kDVE).
+[**Clopen Mic Night #5: The Power of Five**](/events/2025-05-01) took place on **Thursday 1st May** from **8-9pm** (UK time).
+You can watch a recording of the show for a limited time on the [Clopen Mic YouTube channel](https://youtube.com/live/JVu2CG6kDVE).
 
 The show is free to watch, but we support our performers and pay our behind-the-scenes team 
 for their work, so if you'd like to make a contribution - for example, as much as you'd pay 
