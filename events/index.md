@@ -36,6 +36,15 @@ A list of all our past shows, with links to line-ups can be found [here](list.md
 %}
 
 {% include _person.html
+    img="/assets/img/people/yolanda-ohene.jpg"
+    name="Yolanda Ohene"
+    about="Yolanda Ohene is a neuroimaging scientist at The University of Manchester and a Fellow of The Berlin Institute for Advanced Studies (2024/2025), where maths helps her to develop new MRI techniques to image the brain. Outside of the lab, Yolanda is a keen science communicator speaking at science festivals, schools and comedy nights. She has featured on the BBC Tomorrow's World Live, given talks at The Royal Institution, Green Man festival and Katowice Science festival. At Clopen Mic Night, she'll be talking about imaging our insides. When Yolanda's not talking science, you'll find her dancing or rollerskating somewhere in Manchester!"
+    website="https://linktr.ee/y_ohene"
+    pronouns="she/her"
+
+%}
+
+{% include _person.html
     img="/assets/img/people/christopher-james.jpg"
     name="Christopher James"
     about="Christopher James is a maths teacher in South London whose favourite programming language is Microsoft Excel. He is particularly interested in (ab)using technology to help people understand concepts, the History of Mathematics, and antique calculators."
@@ -54,14 +63,7 @@ A list of all our past shows, with links to line-ups can be found [here](list.md
     bluesky="prensemble.bsky.social"
 %}
 
-{% include _person.html
-    img="/assets/img/people/yolanda-ohene.jpg"
-    name="Yolanda Ohene"
-    about="Yolanda Ohene is a neuroimaging scientist at The University of Manchester and a Fellow of The Berlin Institute for Advanced Studies (2024/2025), where maths helps her to develop new MRI techniques to image the brain. Outside of the lab, Yolanda is a keen science communicator speaking at science festivals, schools and comedy nights. She has featured on the BBC Tomorrow's World Live, given talks at The Royal Institution, Green Man festival and Katowice Science festival. At Clopen Mic Night, she'll be talking about imaging our insides. When Yolanda's not talking science, you'll find her dancing or rollerskating somewhere in Manchester!"
-    website="https://linktr.ee/y_ohene"
-    pronouns="she/her"
 
-%}
 
 Sign up below to receive an email reminder shortly before our next event.
 <div class="sender-form-field" data-sender-form-id="ks7i2oxmaq7jqdqvszm" style="text-align:center"></div>
